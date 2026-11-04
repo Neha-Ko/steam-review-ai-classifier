@@ -1,0 +1,31 @@
+appid,name,group,genre,base_price_usd,release,rating_pct_seen,notes,total_reviews_alltime,total_negative_alltime,pct_positive_alltime,review_score_desc,negative_in_window,positive_in_window
+3036080,Shawarma Legend,disclosed,cooking/shop sim,2.99,2024-07,89.4,,798,72,91.0,Very Positive,56,589
+1771980,The Operator,disclosed,detective,13.99,2024-07,88.9,,3849,399,89.6,Very Positive,298,2736
+3589510,Returns Outlet Simulator,disclosed,shop sim,9.99,2025-08,89.6,,585,31,94.7,Very Positive,4,199
+1429850,Sumerian Six,disclosed,tactics,29.99,2024-09,89.4,,590,28,95.3,Overwhelmingly Positive,22,433
+2404880,Car Dealer Simulator,disclosed,shop sim,19.99,2025-05,86.0,AI used only for some store-page graphics,4860,628,87.1,Very Positive,370,2701
+3355800,Bank Simulator,disclosed,business sim,14.99,2025-06,71.6,,214,51,76.2,Mostly Positive,29,103
+2986370,Food Delivery Simulator,disclosed,sim,7.99,2024-12,72.0,,81,24,70.4,Mostly Positive,17,46
+2487150,Deconstruction Simulator,disclosed,sim,19.99,2025-09,72.8,,761,229,69.9,Mixed,137,400
+2118250,Kitchen Crisis,disclosed,cooking sim,14.99,2024-04,71.1,,80,9,88.8,Very Positive,8,69
+3494520,Lost Rift,disclosed,survival,24.99,2025-09,67.5,,784,197,74.9,Mostly Positive,119,419
+2738870,Hotel Business Simulator,disclosed,management sim,12.99,2024-06,49.1,,97,52,46.4,Mixed,48,41
+3484300,DREADZONE,disclosed,shooter,24.99,2025-07,51.3,,555,213,61.6,Mixed,187,277
+2687970,TRIBES 3: Rivals,disclosed,shooter,19.99,2024-03,60.6,,1275,488,61.7,Mixed,464,768
+2943670,Night Club Simulator,disclosed,management sim,14.99,2025-07,59.7,,119,53,55.5,Mixed,41,54
+3444080,Bakery Cafe Simulator,disclosed,cooking sim,11.99,2025-07,66.8,,170,36,78.8,Mostly Positive,23,100
+2756770,Tavern Manager Simulator,control,management sim,14.99,2024-08,89.0,,1476,155,89.5,Very Positive,124,1181
+2594540,Motel Manager Simulator,control,management sim,17.99,2024-08,84.0,,981,156,84.1,Very Positive,132,728
+3124550,Liquor Store Simulator,control,shop sim,11.99,2025-05,86.0,,256,29,88.7,Very Positive,17,151
+1001270,Kebab Chefs! - Restaurant Simulator,control,cooking sim,17.99,2024-01,79.0,Early access Jan 2024; full release 2026,1898,386,79.7,Mostly Positive,311,1312
+1708850,Drug Dealer Simulator 2,control,sim,24.99,2024-06,66.0,,4521,2289,49.4,Mixed,2216,2121
+2930320,Pharmacy Simulator,control,sim,9.99,2024-08,57.0,Early access; only ~241 reviews,89,51,42.7,Mixed,41,37
+1136380,Ultimate Fishing Simulator 2,control,sim,19.99,2025-05,63.0,Full release 2025 but early access since 2022,777,287,63.1,Mixed,128,142
+2300320,Farming Simulator 25,control,sim,29.99,2024-11,86.0,Much larger than most games here,21625,2978,86.2,Very Positive,2381,13251
+1430190,Killing Floor 3,control,shooter,39.99,2025-07,49.0,,12642,6732,46.7,Mixed,4789,4737
+2272540,FBC: Firebreak,control,shooter,19.99,2025-06,69.0,,1725,557,67.7,Mixed,398,995
+2169200,Sniper Elite: Resistance,control,shooter,49.99,2025-01,75.0,Higher price than disclosed shooters,3368,846,74.9,Mostly Positive,629,1839
+1043810,Tactical Breach Wizards,control,tactics,19.99,2024-08,97.0,,11216,225,98.0,Overwhelmingly Positive,180,9865
+1660080,Aloft,control,survival,24.99,2025-01,84.0,Early access,2324,338,85.5,Very Positive,268,1719
+1702010,Sengoku Dynasty,control,survival,29.99,2024-11,76.0,Early access since Aug 2023,3226,759,76.5,Mostly Positive,450,1299
+2637990,Duck Detective: The Secret Salami,control,detective,9.99,2024-05,94.0,,5326,255,95.2,Overwhelmingly Positive,219,4600
