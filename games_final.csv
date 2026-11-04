@@ -1,4 +1,10 @@
 appid,name,group,rating_tier,genre,base_price_usd,release,total_reviews_alltime,pct_positive_alltime,negative_in_window,positive_in_window,notes
+1660080,Aloft,control,high,survival,24.99,2025-01,2324,85.5,268,1719,Early access
+2637990,Duck Detective: The Secret Salami,control,high,detective,9.99,2024-05,5326,95.2,219,4600,
+2300320,Farming Simulator 25,control,high,sim,29.99,2024-11,21625,86.2,2381,13251,Much larger than most games here
+1043810,Tactical Breach Wizards,control,high,tactics,19.99,2024-08,11216,98.0,180,9865,
+2756770,Tavern Manager Simulator,control,high,management sim,14.99,2024-08,1476,89.5,124,1181,
+2407830,Trash Goblin,control,high,shop sim,19.99,2024-11,1484,89.2,112,1038,Early access Nov 2024; full release May 2025; no AI disclosure (checked)
 1708850,Drug Dealer Simulator 2,control,low,sim,24.99,2024-06,4521,49.4,2216,2121,
 1430190,Killing Floor 3,control,low,shooter,39.99,2025-07,12642,46.7,4789,4737,
 2930320,Pharmacy Simulator,control,low,sim,9.99,2024-08,89,42.7,41,37,Early access; only ~241 reviews
@@ -8,24 +14,18 @@ appid,name,group,rating_tier,genre,base_price_usd,release,total_reviews_alltime,
 2594540,Motel Manager Simulator,control,mid,management sim,17.99,2024-08,981,84.1,132,728,
 1702010,Sengoku Dynasty,control,mid,survival,29.99,2024-11,3226,76.5,450,1299,Early access since Aug 2023
 2169200,Sniper Elite: Resistance,control,mid,shooter,49.99,2025-01,3368,74.9,629,1839,Higher price than disclosed shooters
-1660080,Aloft,control,high,survival,24.99,2025-01,2324,85.5,268,1719,Early access
-2637990,Duck Detective: The Secret Salami,control,high,detective,9.99,2024-05,5326,95.2,219,4600,
-2300320,Farming Simulator 25,control,high,sim,29.99,2024-11,21625,86.2,2381,13251,Much larger than most games here
-1043810,Tactical Breach Wizards,control,high,tactics,19.99,2024-08,11216,98.0,180,9865,
-2756770,Tavern Manager Simulator,control,high,management sim,14.99,2024-08,1476,89.5,124,1181,
-2407830,Trash Goblin,control,high,shop sim,19.99,2024-11,1484,89.2,112,1038,Early access Nov 2024; full release May 2025; no AI disclosure (checked)
-3484300,DREADZONE,disclosed,low,shooter,24.99,2025-07,555,61.6,187,277,
-2738870,Hotel Business Simulator,disclosed,low,management sim,12.99,2024-06,97,46.4,48,41,
-2943670,Night Club Simulator,disclosed,low,management sim,14.99,2025-07,119,55.5,41,54,
-1610520,Serum: Toxic Survival,disclosed,low,survival,24.99,2024-05,174,39.1,85,65,
-2687970,TRIBES 3: Rivals,disclosed,low,shooter,19.99,2024-03,1275,61.7,464,768,
-2075100,Chernobylite 2: Exclusion Zone,disclosed,mid,RPG/survival,39.99,2025-03,346,68.5,87,205,
-3098070,Cinema Simulator 2025,disclosed,mid,management sim,11.68,2025-02,250,76.8,45,162,
-2487150,Deconstruction Simulator,disclosed,mid,sim,19.99,2025-09,761,69.9,137,400,
-3494520,Lost Rift,disclosed,mid,survival,24.99,2025-09,784,74.9,119,419,
-1636710,The Brew Barons,disclosed,mid,management sim,21.99,2024-03,718,73.0,172,505,
 2404880,Car Dealer Simulator,disclosed,high,shop sim,19.99,2025-05,4860,87.1,370,2701,AI used only for some store-page graphics
 1278540,Esports Godfather,disclosed,high,management sim,19.99,2024-05,1119,94.3,57,991,
 2276980,FACEMINER,disclosed,high,sim,7.99,2025-02,1222,90.6,85,759,
 3036080,Shawarma Legend,disclosed,high,cooking/shop sim,2.99,2024-07,798,91.0,56,589,
 1771980,The Operator,disclosed,high,detective,13.99,2024-07,3849,89.6,298,2736,
+3484300,DREADZONE,disclosed,low,shooter,24.99,2025-07,555,61.6,187,277,
+2738900,REAL ESTATE Simulator - FROM BUM TO MILLIONAIRE,disclosed,low,management sim,12.99,2024-03,99,47.5,42,43,Replaces Hotel Business Simulator (all its reviews were in the pilot dev set)
+1610520,Serum: Toxic Survival,disclosed,low,survival,24.99,2024-05,174,39.1,85,65,
+2687970,TRIBES 3: Rivals,disclosed,low,shooter,19.99,2024-03,1275,61.7,464,768,
+2845090,The Last FARMER,disclosed,low,sim,12.99,2024-10,154,52.6,58,72,Replaces Night Club Simulator (all its reviews were in the pilot dev set)
+2075100,Chernobylite 2: Exclusion Zone,disclosed,mid,RPG/survival,39.99,2025-03,346,68.5,87,205,
+3098070,Cinema Simulator 2025,disclosed,mid,management sim,11.68,2025-02,250,76.8,45,162,
+2487150,Deconstruction Simulator,disclosed,mid,sim,19.99,2025-09,761,69.9,137,400,
+3494520,Lost Rift,disclosed,mid,survival,24.99,2025-09,784,74.9,119,419,
+1636710,The Brew Barons,disclosed,mid,management sim,21.99,2024-03,718,73.0,172,505,
