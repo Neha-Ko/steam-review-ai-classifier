@@ -1,0 +1,14 @@
+appid,name,group,tier,genre,base_price_usd,release,rating_pct_seen,notes,total_reviews_alltime,total_negative_alltime,pct_positive_alltime,review_score_desc,negative_in_window,positive_in_window
+2920570,Dale & Dawson Stationery Supplies,disclosed,high,social sim,7.99,2024-08,88.6,,5370,593,89.0,Very Positive,512,4481
+2276980,FACEMINER,disclosed,high,sim,7.99,2025-02,85.5,,1222,115,90.6,Very Positive,85,759
+1477070,Depersonalization,disclosed,high,RPG,19.99,2024-08,90.0,,350,55,84.3,Very Positive,34,160
+2732820,The Great Rebellion,disclosed,high,strategy,15.99,2024-02,89.6,,422,20,95.3,Very Positive,16,384
+1278540,Esports Godfather,disclosed,high,management sim,19.99,2024-05,87.4,,1119,64,94.3,Very Positive,57,991
+3098070,Cinema Simulator 2025,disclosed,mid,management sim,11.68,2025-02,73.8,,250,58,76.8,Mostly Positive,45,162
+3573430,Cargo Simulator,disclosed,mid,sim,11.99,2025-09,67.9,Released Sep 2025: short window,94,27,71.3,Mostly Positive,13,39
+1636710,The Brew Barons,disclosed,mid,management sim,21.99,2024-03,72.3,,718,194,73.0,Mostly Positive,172,505
+1610520,Serum: Toxic Survival,disclosed,low,survival,24.99,2024-05,48.3,,174,106,39.1,Mostly Negative,85,65
+2075100,Chernobylite 2: Exclusion Zone,disclosed,low,RPG/survival,39.99,2025-03,62.7,,346,109,68.5,Mixed,87,205
+2893820,Of Ash and Steel,disclosed,low,RPG,29.99,2025-11,65.1,Released Nov 2025: short window,1624,674,58.5,Mixed,466,588
+2407830,Trash Goblin,control,,shop sim,19.99,2024-11,87.0,Early access Nov 2024; full release May 2025; no AI disclosure (checked),1484,160,89.2,Very Positive,112,1038
+3467040,Bookshop Simulator,control,,shop sim,19.99,2025-09,92.0,Early access Sep 2025; no AI disclosure (checked); backup only,1312,93,92.9,Very Positive,13,504
