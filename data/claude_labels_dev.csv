@@ -1,0 +1,313 @@
+reason,confidence,evidence,english,input_tokens,output_tokens,cache_read_tokens,cache_write_tokens,response_time_s,recommendationid
+QUALITY,high,bad asset flip,True,139,34,0,2538,1.71,200113805
+OTHER,high,not,True,11,26,0,2538,1.71,183030005
+QUALITY,high,Just bad,True,12,28,0,2538,1.72,201682974
+SKIP,high,العاملات يجيهم قلتش كثير,False,88,47,0,2538,1.96,198157749
+QUALITY,high,it makes you go to sleep at 22:00 because time stops... you can't skip time,True,155,52,0,2538,2.12,192428495
+QUALITY,high,"abandoned, no updates, no bug fixes, no communication",True,44,37,2538,0,1.32,177457638
+QUALITY,high,"boring game, very slow paced and not much to do",True,42,38,2538,0,1.34,179044174
+QUALITY,high,1 update after the release and nothing more from the devs,True,30,39,2538,0,1.48,176709926
+QUALITY,high,bugs and there is no hear from devs. one update since release date. scam,True,35,44,2538,0,1.61,174474163
+OTHER,high,TOO MANY NAKED PEOPLE! I personally do not check into a hotel almost completely naked,True,37,45,2538,0,2.14,176380237
+QUALITY,high,"no new updates, its not worth spending you're money",True,33,37,2538,0,1.27,174137261
+QUALITY,high,never had any new content and only 1 or 2 bug fixes,True,55,42,2538,0,1.45,174390630
+QUALITY,high,no fun its to basic,True,18,31,2538,0,1.43,173918745
+QUALITY,high,Game is very lite on content,True,116,37,2538,0,1.43,173483743
+QUALITY,high,time does not pass and stays at 22:00. Is this a bug,True,76,42,2538,0,1.78,173443443
+QUALITY,high,No way to exit first-person view mode. Couldn't stomach it. time mechanics are awful.,True,96,46,2538,0,1.97,171541462
+QUALITY,high,lack of content and practically missing communication with the Dev team makes the game too short,True,129,42,2538,0,2.14,172299080
+QUALITY,high,not available on mac,True,14,30,2538,0,1.83,171010090
+QUALITY,high,"tried for 17 hours to get it to launch, although downloaded, it never launched",True,109,44,2538,0,1.43,170301528
+QUALITY,high,needs a lot more features to give it some life,True,121,36,2538,0,1.41,170088489
+QUALITY,high,not enough content... no updates,True,40,32,2538,0,1.42,169040367
+QUALITY,high,the mechanics of the game are so irritating,True,349,35,2538,0,1.38,168616950
+QUALITY,high,no devs trying to address any of the issues,True,180,41,2538,0,1.57,169642485
+QUALITY,high,the Dev / Devs have abandoned this game,True,106,36,2538,0,2.13,170294657
+QUALITY,high,guests are in underwear or half dressed... whole days standing round doing nothing,True,49,41,2538,0,1.38,168166870
+QUALITY,high,it still feels unfinished and there are a few game mechanics that does effect the fun of the game,True,294,47,2538,0,1.53,168197725
+QUALITY,high,glitch that doesn't allow you to use the cleaning apparatus,True,126,43,2538,0,1.45,167742845
+QUALITY,high,less than barebones... no Empire to be seen anywhere... Just that empty desk,True,180,48,2538,0,1.59,167449073
+QUALITY,high,early alpha... sleeping mechanic... time moves way too fast... not worth the price,True,187,48,2538,0,1.68,167804414
+QUALITY,high,not a simulator,True,95,29,2538,0,1.37,167412328
+QUALITY,high,it don't have any fun game play . there are only 3 levels and the same boring decor,True,108,48,2538,0,1.72,167302110
+QUALITY,high,rinse and repeat game...within your first 10mins or less you have literally done everything in this game period,True,122,54,2538,0,1.81,167385537
+QUALITY,high,the Devs have just given up or not interested,True,140,42,2538,0,1.57,167132467
+QUALITY,high,long grind no pay off... Things in trailer not available even after progressing,True,89,42,2538,0,1.65,167036081
+QUALITY,high,there is work to be done,True,189,37,2538,0,1.49,167029963
+QUALITY,high,"Graphics are sub-par, boring and repetitive",True,38,36,2538,0,1.32,166878430
+QUALITY,high,lack of lobby appeal and the list is long from there... scam game basket,True,115,42,2538,0,1.33,166850615
+QUALITY,high,"Buggye mess, dodgy dev's",True,34,36,2538,0,1.51,166903999
+SKIP,high,"game nya booring, stock minuman langsung habis",False,82,43,2538,0,1.74,166819140
+QUALITY,high,boring and repetitive really is not a lot to do,True,39,37,2538,0,1.43,166808430
+QUALITY,high,very boring and very basic,True,55,31,2538,0,1.42,166772819
+QUALITY,high,lack of content...not worth it until they give it more updates,True,459,39,2538,0,1.56,166709674
+QUALITY,high,repetitive and a cool idea would be being able to buy more linens for the beds,True,93,44,2538,0,1.75,166774623
+QUALITY,high,the dev ran off,True,23,30,2538,0,1.24,166701773
+QUALITY,high,extremely slow pace and once you have used the 10000 supplied to get started you earn next to nothing,True,111,48,2538,0,1.54,166696414
+QUALITY,high,multiplayer dosent work good game bugs out alot not reallly an openworld,True,63,44,2538,0,1.48,214418516
+QUALITY,high,bugs upon bugs... game breaking pathing... maids leaving with linen... not ready for purchase,True,1143,51,2538,0,1.83,166690921
+QUALITY,high,"the grind is extreme, very repetitive, and honestly just not much fun at all",True,200,49,2538,0,1.57,166670508
+QUALITY,high,very basic... barley any items for rooms and not much really to do... just feels empty,True,111,45,2538,0,1.69,166684337
+QUALITY,high,stuck in the Inventory screen,True,152,37,2538,0,1.53,214164304
+BOTH,high,even the games banner on steam is made by AI and not even a good one either,True,140,48,2538,0,1.58,214140158
+QUALITY,medium,in 3 years when its fully developed,True,29,35,2538,0,2.09,213404122
+QUALITY,high,looks and runs really bad. Lots of bugs too,True,65,37,2538,0,1.48,213344128
+QUALITY,high,unoptimized even with dlss - i get 30-55fps when i get 90-100 on most games,True,54,53,2538,0,2.32,213889207
+QUALITY,high,"it starts with being unable to use the campfire... it hits me, and I go flying back 100+ yards... the unstuck feature then puts me in another stuck place",True,136,67,2538,0,2.63,213593003
+QUALITY,high,Game is not optimized at all... U need a GODSPEC Computer to play this game and the updates are REALLY SLOW,True,119,58,2538,0,1.85,212630188
+QUALITY,high,game not optimized at all,True,72,32,2538,0,1.48,209451703
+QUALITY,high,not for this price and theres nothing to do,True,35,36,2538,0,1.58,212231368
+OTHER,high,wishing I could get my refund,True,36,33,2538,0,1.55,209734664
+QUALITY,high,needs some work in the UI and menu's for a smoother game,True,52,40,2538,0,1.31,208708283
+QUALITY,high,laggy asf in certain areas to the point it causes your pc to have a stroke and loot vanishing out of chests,True,70,53,2538,0,1.57,206569090
+QUALITY,high,game is shit,True,16,29,2538,0,1.23,206295269
+QUALITY,high,"Price is too high for what it is, graphics suck, stored items in chest constantly disappear",True,48,46,2538,0,1.5,206338575
+QUALITY,high,Newest update is hot garbage. Logged into the game today and a vast majority of my stuff that was in the chests is all gone,True,113,55,2538,0,1.53,206304007
+QUALITY,high,Bad Quality. not like in video. Game Mechanics are a bit funky. and it's no challenge at all,True,65,50,2538,0,1.49,205773011
+QUALITY,high,dead game,True,26,28,2538,0,1.32,205000879
+QUALITY,high,runs like you have potato even if you surpass the requirements,True,43,38,2538,0,1.73,205503993
+BOTH,high,"inventory system is really annoying, no stealth, hard to get ammo, and ai images",True,32,46,2538,0,1.44,204915252
+QUALITY,high,"bug since the start, can't even get past the tutorial",True,47,38,2538,0,2.3,205127928
+QUALITY,high,"disappearing deer, you would have thought that would have been fixed early on",True,89,41,2538,0,1.91,204553560
+QUALITY,high,runs like a bag of hammers... poorly optimized games,True,43,38,2538,0,1.58,204111768
+QUALITY,high,not worth the price,True,16,30,2538,0,1.92,203682077
+QUALITY,high,"frame rate was constantly slow, graphics and foliage hardly showed up as anything more then blobs",True,55,46,2538,0,1.53,203558304
+QUALITY,high,annoying bugs such as buildings and objects appear on top of your head,True,157,45,2538,0,1.63,203412453
+QUALITY,high,"game play is boring...Mutants move like jelly...Couldn't build a fire, games building crafting needs work",True,127,57,2538,0,2.29,203631268
+QUALITY,high,Coop is a little broken because when u quit the game and try to connect to the same coop session it disapears! Quests break everytime,True,135,60,2538,0,1.68,203308994
+QUALITY,high,very poorly optimised,True,255,35,2538,0,1.62,203074524
+QUALITY,high,performance nightmare,True,19,28,2538,0,1.32,202730094
+QUALITY,high,crashes regularly...fatal error and crashes out,True,193,39,2538,0,1.56,202883624
+QUALITY,high,Very expensive to what it has to offer,True,59,34,2538,0,1.51,202820248
+QUALITY,high,stupid AI that just runs straight at you,True,60,34,2538,0,1.45,202566681
+QUALITY,high,crashed my system so hard you could fry an egg on my gpu,True,59,40,2538,0,1.85,202618579
+QUALITY,medium,nowhere near as cool as the trailer makes it seem,True,27,36,2538,0,1.35,202527069
+QUALITY,high,not worth $29.99 for whats been produced so far,True,86,40,2538,0,1.48,202507684
+QUALITY,high,"game keeps freezing, released too soon, antibiotics is way too hard, not worth the money",True,62,46,2538,0,1.64,202508082
+QUALITY,high,gameplay right now is just stupid,True,72,32,2538,0,1.33,202484941
+QUALITY,high,not worth spending time on,True,83,31,2538,0,1.34,202371437
+QUALITY,high,totally hollow and the gameplay is too raw to cost 30 euros,True,59,40,2538,0,1.46,202324969
+QUALITY,high,GPU temps to high,True,26,30,2538,0,1.51,202292397
+QUALITY,high,"gameplay is very basic, the world feels empty, and if you don't play for a couple of days all of your gear is broken",True,99,53,2538,0,1.72,202006878
+QUALITY,high,"horribly unoptimized, i can barely run it at 30fps at the lowest settings",True,70,47,2538,0,1.74,201927952
+OTHER,high,just not now,True,13,28,2538,0,1.69,201927428
+QUALITY,high,99% gpu usage no matter my settings,True,26,34,2538,0,1.53,201735498
+QUALITY,high,unplayable for me... cannot pick up collect any resources... fatal flaw,True,66,42,2538,0,1.75,201665410
+SKIP,high,MEMBOSANKAN,False,15,31,2538,0,1.43,201625724
+QUALITY,high,got like 60 fps. and was choppy,True,40,37,2538,0,1.43,201493501
+QUALITY,high,extremely poorly optimized and crashes randomly,True,45,33,2538,0,1.63,201535326
+QUALITY,high,"No path-finding, no detection system, one NPC see you - all start shooting at exact place where you are",True,383,55,2538,0,1.72,201355642
+QUALITY,high,"enemies shoot you from miles away, building need a lot of work",True,41,39,2538,0,1.53,201323362
+SKIP,high,jespere que la compagnie va faire faillite,False,63,44,2538,0,1.73,201324882
+QUALITY,high,getting less frames after putting DLSS on and unable to turn off ray tracing,True,43,43,2538,0,1.64,201251004
+QUALITY,high,the AI is so broken you'll just get aim botted from bushes,True,67,41,2538,0,1.6,201203202
+OTHER,high,Deveoper is a very male-liking individual,True,23,37,2538,0,1.31,201165092
+QUALITY,high,"combat, gathering, hunting, sneaking, crafting all feels bland",True,46,40,2538,0,1.85,201177979
+QUALITY,medium,can't recommend it... hope full version will be more polished,True,37,39,2538,0,1.43,201117315
+QUALITY,high,introduction is waaaaaay to long,True,116,34,2538,0,1.31,201094443
+QUALITY,high,Needs more polishing... unrefined,True,46,35,2538,0,1.39,201080726
+BOTH,high,"the devs asked chatGPT to make a zombie survival game, but terrible",True,119,48,2538,0,1.66,200955450
+QUALITY,high,performance is very unstable,True,37,31,2538,0,1.46,200851090
+QUALITY,high,"buggy, lagy and needs serious work",True,102,35,2538,0,1.51,200816031
+QUALITY,high,"blank, empty and boring...not playing again till more updates",True,97,38,2538,0,1.53,200805832
+QUALITY,high,needs some work so may re-purchase once its a little more stable,True,34,40,2538,0,1.49,200798831
+QUALITY,high,super unpolished even for a early access game,True,81,36,2538,0,1.54,200748189
+QUALITY,high,"runs poorly, the gunplay and hit registration is awful, bots are weird and frustating, UI and menus are bad",True,113,57,2538,0,1.77,200753438
+QUALITY,high,The inventory doesn't close with the same button... The font of the information messages is small and dirty... no auto-battle for holding down the mouse button,True,805,62,2538,0,1.94,200768457
+QUALITY,high,"could barely read text with pixelation...obvious non ready state, is scammy",True,64,44,2538,0,1.7,200746159
+QUALITY,high,boring and poorly designed,True,128,35,2538,0,2.17,200711404
+QUALITY,high,"choppy, zombies look like blobs of flesh and are really buggy",True,82,42,2538,0,1.58,200707750
+QUALITY,high,fatal error ever 30 seconds... crashes constantly,True,117,36,2538,0,1.89,200710846
+QUALITY,medium,acceptable quality by 2027,True,23,32,2538,0,1.97,200697417
+QUALITY,high,"playing this alone or just co-op is not that fun, PVP combat with base defenses would make this actually playable",True,53,53,2538,0,1.57,200691442
+QUALITY,high,grind repeat sink hole. Needs LOTS of graphics work/major improvements. No realistic weapons damage,True,118,47,2538,0,1.61,200632451
+QUALITY,high,needs a lot of work,True,150,36,2538,0,2.67,200696611
+QUALITY,high,"graphics look terrible, horrible hits detection, unequipped everything when you load back, price is too high",True,115,47,2538,0,2.03,200678868
+QUALITY,high,"the BUGS, theres a LOT",True,334,40,2538,0,1.58,200625629
+OTHER,high,not for me,True,13,28,2538,0,1.5,200571016
+QUALITY,high,friends can't join back plus there's plenty of bugs,True,38,37,2538,0,1.28,200457365
+QUALITY,high,I can't continue playing with such tragic blurring,True,85,37,2538,0,1.44,200459662
+QUALITY,high,released this game too fast...a lot of work,True,67,36,2538,0,1.47,200459522
+QUALITY,high,the tree sinks through the floor like a sunken battleship,True,51,39,2538,0,1.49,200440074
+QUALITY,high,The UI is trash,True,15,30,2538,0,1.43,200414192
+QUALITY,high,basic controls don't work or don't work well,True,98,41,2538,0,1.62,200328036
+QUALITY,high,"bugs, crafting is mediocre, combat is basically like minecraft, interface is severely lacking, unfinished product",True,121,50,2538,0,2.11,200383504
+QUALITY,high,super alpha build currently...bugs...AI for now are super wonky,True,234,45,2538,0,2.2,200331023
+QUALITY,high,pacing felt slow and uninspired... Enemies are tanky and respawn way too quickly... graphics still left a lot to be desired... needed more time in development,True,374,66,2538,0,2.43,200412060
+QUALITY,high,blurriness got to me... stamina... loads of work required,True,74,40,2538,0,1.5,200326381
+OTHER,high,No for now :c,True,15,30,2538,0,1.37,200301162
+QUALITY,high,needs years of work,True,14,30,2538,0,1.27,200269888
+QUALITY,high,"Worst graphics, Gameplay",True,36,32,2538,0,1.6,200267348
+GENAI,medium,victim of 'AI can solve everything',True,150,41,2538,0,1.53,200243752
+QUALITY,high,crashed 3 times during the tutorial,True,53,34,2538,0,1.45,200243031
+QUALITY,high,not worth the price for that moment,True,274,38,2538,0,1.44,200230152
+QUALITY,high,technical issues are many and they ruin the experience,True,259,41,2538,0,1.42,200218049
+BOTH,high,made by AI ... not fun and poorly optimized,True,27,36,2538,0,1.4,200197056
+QUALITY,high,got sent into the sky after cutting down a tree... reloaded after saving game lost all my progress,True,66,47,2538,0,1.63,200197117
+QUALITY,high,"The gunplay is really bad so far, if your fighting more than 10 ads at once your fps drops crazy",True,267,55,2538,0,1.76,200195778
+QUALITY,high,game is so broken with flying in the air after chopping trees down,True,57,40,2538,0,1.59,200195679
+QUALITY,high,needs a lot of work... missing a lot of common function... released with so many issues,True,83,49,2538,0,1.95,200185137
+QUALITY,high,the one thing that felt so good was gone,True,184,40,2538,0,1.39,211811243
+QUALITY,high,money grab for another totally unrelated game,True,31,34,2538,0,1.36,211487149
+QUALITY,high,abandoned by the creators who never bothered finishing it,True,44,36,2538,0,1.84,208715104
+QUALITY,high,"This has been abandoned. Steam needs to give everyone refunds, and de-list this.",True,148,49,2538,0,1.64,207851185
+OTHER,high,...,True,11,26,2538,0,1.34,204990217
+OTHER,high,Can it be played with bots without internet connection?,True,29,36,2538,0,1.45,207453475
+QUALITY,high,no updates for 14 months... abandonware that will never be released,True,83,41,2538,0,1.36,204289189
+QUALITY,high,completely abandoned,True,29,28,2538,0,1.33,203991398
+QUALITY,high,Dead game with awful monetization,True,44,32,2538,0,1.22,202545758
+QUALITY,high,sold us a game that wasnt finished and now theyre offering a credit towards their next game because they gave up on tribes,True,84,56,2538,0,1.76,204158651
+QUALITY,high,The game hasn't been updated in quite some time,True,58,36,2538,0,1.4,203013806
+QUALITY,high,better if the bugs were patched and newer maps were made,True,180,43,2538,0,1.45,201713341
+OTHER,high,"Grand Opening, Grand Closing",True,29,31,2538,0,1.36,201323525
+OTHER,high,ded,True,12,27,2538,0,1.32,199729943
+QUALITY,medium,dead game,True,12,28,2538,0,1.38,198511059
+QUALITY,high,completely abandoned... don't expect any new content or bug fixes,True,62,38,2538,0,1.52,199169093
+QUALITY,high,killed before even being given a chance to get off the ground,True,25,38,2538,0,1.71,198145902
+QUALITY,high,"no vehicles, odd shift to that new game ball mode",True,96,42,2538,0,1.44,198015504
+QUALITY,high,Devs are Stealing and will never Update,True,286,36,2538,0,1.26,196548348
+QUALITY,high,"dead playerbase. Not a real Tribes game, but a arena based ripoff",True,33,43,2538,0,1.35,197548682
+QUALITY,high,Currently a Dead game... bad change... no burner weapon... unfinished product,True,199,48,2538,0,1.75,197865019
+QUALITY,high,game appears to be abandoned... Will never leave early access,True,113,37,2538,0,1.41,196450471
+QUALITY,high,abandoned game shortly after release,True,69,31,2538,0,1.21,195105677
+QUALITY,high,Abandoned game,True,14,29,2538,0,1.22,194650185
+QUALITY,high,coming up on 1 whole year of radio silence,True,174,37,2538,0,1.42,194897392
+QUALITY,high,"phony, half-witted business model",True,233,40,2538,0,1.53,194497248
+QUALITY,high,pillaged the TRIBES franchise,True,64,32,2538,0,1.42,194384529
+QUALITY,high,barely supported after launching the initial Early Access,True,55,34,2538,0,1.27,194141795
+QUALITY,high,Developers abandoned this game shortly after release,True,23,34,2538,0,1.56,194173836
+QUALITY,high,game was abandoned just months after EA release,True,30,34,2538,0,1.42,193981669
+QUALITY,high,"cancelling their development before release, and then moving on to the next grift",True,96,42,2538,0,1.46,193880180
+QUALITY,high,"90% of the servers were bots... lacks basically everything besides the actual FEEL of the game. No vehicles, less gamemodes, worse soundtrack... everything down to the DLC is a scam",True,702,73,2538,0,1.94,193887409
+OTHER,high,LMAO I GOT SCAMMED,True,21,35,2538,0,1.4,193555704
+QUALITY,medium,No player base,True,37,29,2538,0,1.35,193442356
+QUALITY,high,developers have decided they are not working on it anymore... online is completely unplayable,True,91,43,2538,0,1.69,192914071
+QUALITY,high,cash grab on the corpse of a IP,True,270,40,2538,0,1.51,192852967
+QUALITY,high,game was swiftly abandoned merely three months into early access,True,125,43,2538,0,1.64,192463040
+OTHER,high,best game ive ever refunded,True,17,32,2538,0,1.68,192286196
+QUALITY,high,development was abandoned and the game now stays in 'early access',True,224,45,2538,0,2.19,192364102
+QUALITY,high,hackers just destroyed this game. Now nobody plays.,True,47,36,2538,0,1.28,191480619
+QUALITY,high,lack of devotion from the developers,True,143,38,2538,0,1.82,191916104
+QUALITY,medium,I basically feel like money was stolen from me,True,76,35,2538,0,1.41,191098284
+OTHER,high,Look what they did to my boy...,True,18,33,2538,0,1.51,189990813
+QUALITY,high,take money and dissapear,True,39,32,2538,0,1.26,188426846
+QUALITY,high,Abandoned by the studio,True,39,31,2538,0,1.25,187967040
+OTHER,high,I bought this game just to leave this warning and refund it,True,130,43,2538,0,1.62,188413259
+QUALITY,high,no support... abandon it,True,65,31,2538,0,1.37,186737957
+QUALITY,high,abandoned after trying to milk players for all they're worth,True,114,37,2538,0,1.41,186631877
+QUALITY,high,Dead game,True,12,28,2538,0,1.52,186414731
+QUALITY,high,They abandoned this game within months,True,92,32,2538,0,1.44,186200026
+QUALITY,high,completely abandoned. No remaining playerbase makes it impossible to play online,True,31,39,2538,0,1.52,185435358
+BOTH,high,game abandoned last update was June 2024 ... AI random gen skins,True,48,42,2538,0,1.64,185027502
+QUALITY,high,barely been updated...100% been abandoned by the developers,True,111,37,2538,0,1.5,184774454
+QUALITY,high,take our money and just leave without updating or doing anything for the game,True,63,40,2538,0,2.56,186092318
+BOTH,high,"There is a ton of AI generated content in this game... maps are frankly piss-poor, low effort garbage... servers are dead",True,462,59,2538,0,1.88,183087615
+QUALITY,high,Abandoned,True,12,28,2538,0,1.5,182989843
+SKIP,high,um jogo ótimo e com potencial,False,88,36,2538,0,1.4,182058539
+QUALITY,high,"small maps with open flags, small bases, no vehicles, and no way to play a dedicated base building role",True,277,53,2538,0,1.67,182681637
+QUALITY,high,last update was in June 2024...Another reviewer said this game has been abandoned,True,183,48,2538,0,1.55,182612612
+QUALITY,high,abandon ship for their newest cash grab again,True,132,39,2538,0,1.53,181930913
+QUALITY,low,game sux,True,13,29,2538,0,1.46,180863700
+QUALITY,high,abandoned game,True,36,28,2538,0,1.35,179822494
+QUALITY,medium,I never got kills and just got murdered... I didn't have fun playing,True,50,41,2538,0,1.44,179884116
+OTHER,high,Not tribes,True,12,27,2538,0,1.37,179477886
+QUALITY,high,Abandoned / bait-and-switch,True,20,35,2538,0,1.23,179106444
+QUALITY,high,milked and abandoned their fans once again,True,35,34,2538,0,1.5,179262568
+QUALITY,medium,Dead game,True,16,28,2538,0,1.43,178655783
+QUALITY,medium,DEAD GAME,True,16,30,2538,0,1.4,178622437
+QUALITY,high,game needs attention from devs,True,38,32,2538,0,1.44,178763515
+OTHER,high,"was such a fun game, feelsbadman",True,21,35,2538,0,1.36,178543080
+QUALITY,high,bad programming they did to screw up the anti cheat,True,114,38,2538,0,1.43,178619310
+OTHER,high,no words for how big of a disappointment,True,30,34,2538,0,1.32,177877415
+QUALITY,high,cash grab... abandoning the game shortly after arrival,True,65,36,2538,0,1.64,177486681
+QUALITY,high,abandoned 5 months ago and they are still selling it for up to $60,True,37,43,2538,0,1.64,178350715
+QUALITY,high,Bad monetization and abandoned by company for a new game,True,73,37,2538,0,1.46,177441779
+QUALITY,high,"abandoned. No updates, no content, and was a cash grab from the get go",True,81,43,2538,0,1.5,177131489
+OTHER,high,it was cool for the 3 months it lasted i guess,True,23,38,2538,0,1.34,176911312
+OTHER,high,Rug-pull,True,15,30,2538,0,1.43,176258321
+QUALITY,high,the bean counters have killed the game before it could get on it's feet,True,56,42,2538,0,1.44,176382574
+QUALITY,high,development has ceased,True,42,29,2538,0,1.33,176188815
+QUALITY,high,soulless cash grab,True,39,31,2538,0,1.29,175913494
+QUALITY,medium,If I would have known this was a Hi-Rez game I would have never bought,True,41,45,2538,0,1.35,175885871
+OTHER,high,Nope,True,13,28,2538,0,1.43,175716795
+QUALITY,high,active development has already ceased and yet there's still a $20 price tag and more paid DLC than there is content to begin with,True,316,54,2538,0,1.47,175843873
+QUALITY,high,game was abandoned after 3 months,True,155,39,2538,0,1.54,175494082
+QUALITY,high,game got abandoned similar way as Tribes Ascend,True,41,37,2538,0,1.51,175113973
+QUALITY,high,Dead game will never get updated or patched again,True,29,36,2538,0,1.27,174772114
+OTHER,high,scam,True,12,27,2538,0,1.4,174179318
+QUALITY,high,abandoned by the developers,True,72,30,2538,0,1.54,173833918
+QUALITY,medium,seriously unbalanced and one dimensional... doesn't seem to be in active development,True,115,47,2538,0,1.95,174573081
+QUALITY,high,"pull support the moment it stopped making enough money... cut updates, abandon development, and leave players in the dust",True,256,48,2538,0,1.57,173373695
+QUALITY,high,the developers announced they are essentially abandoning this game,True,212,41,2538,0,1.58,172474870
+QUALITY,high,dead game,True,12,28,2538,0,1.3,172315527
+QUALITY,high,plagued by hackers that Prophecy does nothing about,True,99,38,2538,0,1.36,172281488
+OTHER,high,Disgrace.,True,75,33,2538,0,1.36,172139063
+QUALITY,high,it's like a six year old version of what made Tribes great... Everything that made Tribes what it was has been skinned out and left for dead,True,287,63,2538,0,1.84,172258216
+QUALITY,high,overpriced daily skin packs... no further developments... bare bones,True,153,45,2538,0,1.52,171561003
+QUALITY,high,game is dead/abandoned,True,45,31,2538,0,1.28,171072413
+QUALITY,high,devs have all but abandoned,True,95,32,2538,0,1.5,170927437
+QUALITY,medium,"not enough to compensate for the ""game"" itself",True,55,37,2538,0,1.43,214661692
+QUALITY,high,bugged in the first night and locked me out of serving any drinks,True,25,40,2538,0,1.39,214266524
+QUALITY,high,the devs abandon everything they make,True,48,33,2538,0,1.4,211286209
+QUALITY,high,Abandoned a few months after release,True,81,33,2538,0,2.49,170753541
+QUALITY,high,The game refuses to launch due to a recurring Unreal Engine error,True,118,40,2538,0,1.62,209213341
+OTHER,high,DON'T!,True,24,29,2538,0,1.24,207491979
+QUALITY,medium,money grab,True,43,28,2538,0,1.44,206213015
+QUALITY,high,abandoned by the developers,True,51,30,2538,0,1.71,207142106
+OTHER,high,WASTE OF TİME 1 STAR,True,22,42,2538,0,1.54,206179950
+QUALITY,high,you always just get even more work to do instead of going up the ladder and managing a club,True,233,50,2538,0,1.63,205599559
+QUALITY,high,publisher doesn't care to give it updates,True,33,34,2538,0,1.3,205421640
+QUALITY,high,the game just isn't worth the money... unfinished parts... 10-hour game at most... third club feels completely disconnected... least polished,True,451,63,2538,0,1.8,206021219
+QUALITY,high,dev team went dark shortly after release,True,69,33,2538,0,1.39,204671284
+QUALITY,high,the coop doesn't even work,True,69,33,2538,0,1.43,204446237
+QUALITY,high,the gameplay just got extremely tedious,True,91,33,2538,0,1.54,203844688
+QUALITY,high,"unfixable shader errors crash the game before you even load in, and no fixes from the Devs for over a month",True,58,52,2538,0,1.88,203466633
+QUALITY,high,This game feels really unfinished...devs are notorious for leaving games unfinished,True,184,44,2538,0,1.73,203216557
+BOTH,high,game itself seems like it was built a lot on AI... NPC'S voices in the nightclub give off heavy laziness,True,177,57,2538,0,2.22,203288508
+QUALITY,high,game keep crashing,True,18,30,2538,0,1.33,202544948
+QUALITY,high,got the 'LowLevelFatalError' every time,True,238,45,2538,0,2.27,203097540
+QUALITY,high,that last stage just ruined it for me,True,124,35,2538,0,1.37,202186883
+QUALITY,high,simply just too difficult... orders are extremely intricate... very very little time you get from the customers before they get mad,True,660,55,2538,0,1.75,202466733
+QUALITY,high,"no matter what I did I couldn't. Everything was ""wrong""",True,66,40,2538,0,1.69,201962086
+QUALITY,high,the food part was way too complicated,True,183,38,2538,0,1.52,201641512
+QUALITY,high,get wrong orders when it is the correct order then can't even keep up with the incoming orders,True,169,50,2538,0,1.91,201675042
+QUALITY,high,says wrong order even though i am not... really frustrating and making the game almost unplayable,True,59,46,2538,0,1.54,201629172
+QUALITY,high,scrolling text becomes nearly unreadable...jarring and inconsistent...disappointed with the direction,True,100,50,2538,0,1.62,201598299
+QUALITY,high,no autosave exists... gameplay is still as horrible,True,115,37,2538,0,1.47,201591382
+QUALITY,high,"Buggy, unfinished mess",True,95,34,2538,0,1.25,201355710
+QUALITY,high,The stuff that really made the game interesting in the demo is now gone. Removed from the game.,True,136,51,2538,0,1.66,201447209
+QUALITY,high,"when guests finish eating, not all the plates go back to where they should for cleaning. Some just float around the room randomly",True,202,51,2538,0,1.57,201428789
+QUALITY,medium,screenshots look good but the actual game disappoints (ugly and fat / refund),True,63,42,2538,0,1.96,201314092
+QUALITY,high,"Fixes? Coming ""soon™""... we're stuck in this bugged nightclub... just a glitch fest",True,193,55,2538,0,1.88,201303762
+OTHER,high,BAR simulator,True,13,28,2538,0,1.37,201256929
+QUALITY,high,"The mechanics are terrible, and there's very little simulation",True,92,37,2538,0,1.59,201297109
+QUALITY,high,can't play solo nor with just one friend... cooking makes it impossible... order screen you can't see the whole order,True,195,55,2538,0,1.84,201248775
+QUALITY,high,game can get bugged and you will have to restart from scratch,True,182,44,2538,0,1.58,201241962
+QUALITY,high,customers give you 5.38 cents for a $2 ticket,True,58,41,2538,0,1.36,201100946
+QUALITY,high,"The tutorial is lacking, I often felt very confused on what I have to do",True,331,47,2538,0,1.51,201228543
+QUALITY,high,no pause button when playing alone is crazy,True,34,34,2538,0,1.32,201087212
+QUALITY,high,crashed every time i tried to play it with a shaders error message,True,110,40,2538,0,1.64,201085246
+QUALITY,medium,stupid and crooked game,True,15,31,2538,0,1.29,201073502
+QUALITY,high,full game is full bugged,True,34,32,2538,0,1.31,212876699
+QUALITY,high,Gameplay is dull and you barely make any progress. Tutorial is bugged.,True,28,42,2538,0,1.25,208159791
+QUALITY,high,Controls are janky. Not an enjoyable game,True,23,36,2538,0,1.84,211045008
+QUALITY,high,Poorly optimized and the ordering system doesnt work half the time,True,37,40,2538,0,1.62,207909676
+QUALITY,high,got repetitive... hoping there would be a major update that added more QoL stuff,True,85,44,2538,0,1.5,207569777
+QUALITY,high,poorly optimised and unfortunately it has been abandoned,True,25,35,2538,0,1.64,207017850
+QUALITY,high,abandoned game... no longer being worked on,True,631,39,2538,0,1.68,206914675
+QUALITY,high,laggin so much and crashing and we reached 18 level and thats it no progress after that,True,60,48,2538,0,1.52,206231051
+QUALITY,high,bugs... employees are useless... developer enjoyed the money then moved onto another game,True,99,42,2538,0,1.66,206216641
+QUALITY,high,TO MANY BUG ABOUT THE STUFF THAT WE HIRE,True,53,43,2538,0,1.57,202080829
+QUALITY,high,a lot of little things wrong that add up quickly,True,136,36,2538,0,2.09,203007963
+QUALITY,high,very glitchy and still needs a lot of work,True,156,42,2538,0,1.83,201881037
+BOTH,high,I can feel a LOT more gAI in the game than just the 'steam capsule'... incredibly buggy (actual gameplay wise) and/or vague controls etc,True,358,69,2538,0,1.92,201618170
+QUALITY,high,too many bugs... employees get stuck constantly,True,99,34,2538,0,1.54,201612794
+QUALITY,high,theres a lot of bugs,True,60,32,2538,0,1.74,201569988
+QUALITY,high,badly optimised... 2080 graphics card runs 95% and can stutter,True,37,44,2538,0,1.66,200228919
+QUALITY,high,So buggy. Unplayable,True,18,34,2538,0,1.85,201521029
+QUALITY,high,shallow and repetitive,True,20,30,2538,0,1.59,200192986
+QUALITY,high,Tons of bugs. Frequently unplayable due to bug.,True,43,39,2538,0,1.43,200133246
+QUALITY,high,more bug,True,12,28,2538,0,1.35,200089280
+QUALITY,high,it just crashes way too often,True,107,32,2538,0,1.4,199343817
+QUALITY,high,the dough got 'Unknow Dough' So got to trash it many times,True,92,46,2538,0,1.53,199367579
+QUALITY,high,Unplayable with crashes. Literally cant progress due to crashes and day wipes.,True,197,49,2538,0,1.78,199316915
