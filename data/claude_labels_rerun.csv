@@ -1,0 +1,189 @@
+reason,confidence,evidence,english,model_version,raw_output,called_at,run_by,input_tokens,output_tokens,cache_read_tokens,cache_write_tokens,response_time_s,recommendationid
+OTHER,high,Schedule 1 is better,True,claude-sonnet-4-6,"{""reason"": ""OTHER"", ""confidence"": ""high"", ""evidence"": ""Schedule 1 is better"", ""english"": true}",2026-11-14T22:48:25.444073+00:00,Neha,17,31,0,2538,1.8,193814596
+QUALITY,high,Too many bugs,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""Too many bugs"", ""english"": true}",2026-11-14T22:48:25.454548+00:00,Neha,14,29,0,2538,1.8,208508254
+QUALITY,high,very boring,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""very boring"", ""english"": true}",2026-11-14T22:48:25.582081+00:00,Neha,33,28,0,2538,1.97,206243253
+OTHER,high,not my cup my tea,True,claude-sonnet-4-6,"{""reason"": ""OTHER"", ""confidence"": ""high"", ""evidence"": ""not my cup my tea"", ""english"": true}",2026-11-14T22:48:25.740082+00:00,Neha,41,30,0,2538,2.05,168371878
+QUALITY,high,the refresh rate with all your extra bling made my graphics card go down the shitter,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""the refresh rate with all your extra bling made my graphics card go down the shitter"", ""english"": true}",2026-11-14T22:48:26.051357+00:00,Neha,82,44,0,2538,2.44,187888106
+QUALITY,high,My save was broken,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""My save was broken"", ""english"": true}",2026-11-14T22:48:26.799097+00:00,Neha,33,30,2538,0,1.22,197677753
+QUALITY,high,lack of text and voice chat feels so much more frustrating,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""lack of text and voice chat feels so much more frustrating"", ""english"": true}",2026-11-14T22:48:26.956636+00:00,Neha,91,38,2538,0,1.5,197467067
+QUALITY,high,lack of content and refinement in the mechanics,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""lack of content and refinement in the mechanics"", ""english"": true}",2026-11-14T22:48:27.078431+00:00,Neha,74,35,2538,0,1.63,170073902
+QUALITY,high,not loading my games,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""not loading my games"", ""english"": true}",2026-11-14T22:48:27.197114+00:00,Neha,14,30,2538,0,1.46,198985580
+QUALITY,high,"The ""AI"" is typical branding and just poorly executed script",True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""The \""AI\"" is typical branding and just poorly executed script"", ""english"": true}
+```",2026-11-14T22:48:27.636275+00:00,Neha,277,44,2538,0,1.58,201755845
+QUALITY,high,fs22 reskinned with some dlc vehicles and worse performance,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""fs22 reskinned with some dlc vehicles and worse performance"", ""english"": true}",2026-11-14T22:48:28.232006+00:00,Neha,30,40,2538,0,1.28,203485693
+QUALITY,high,I don't really see much difference between fs25 and fs22,True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""I don't really see much difference between fs25 and fs22"", ""english"": true}
+```",2026-11-14T22:48:28.467670+00:00,Neha,1064,45,2538,0,1.67,202802962
+QUALITY,high,"Co-op still so buggy, it's literally unplayable",True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""Co-op still so buggy, it's literally unplayable"", ""english"": true}",2026-11-14T22:48:28.552695+00:00,Neha,70,40,2538,0,1.36,178931210
+QUALITY,high,get the crashing under control,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""get the crashing under control"", ""english"": true}",2026-11-14T22:48:28.953022+00:00,Neha,62,32,2538,0,1.32,213067124
+QUALITY,high,"so many bugs it's insane, Multiplayer SUCKS if your not the host as it's full of desink and lags",True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""so many bugs it's insane, Multiplayer SUCKS if your not the host as it's full of desink and lags"", ""english"": true}",2026-11-14T22:48:28.954912+00:00,Neha,80,55,2538,0,1.88,214502111
+QUALITY,high,they stay in the motel forever bad game dont buy,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""they stay in the motel forever bad game dont buy"", ""english"": true}",2026-11-14T22:48:29.771040+00:00,Neha,29,37,2538,0,1.3,185820786
+QUALITY,high,plenty of bugs and things you have to do to keep traffic flowing. Employees get stuck often,True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""plenty of bugs and things you have to do to keep traffic flowing. Employees get stuck often"", ""english"": true}
+```",2026-11-14T22:48:29.775224+00:00,Neha,183,50,2538,0,1.54,174306411
+QUALITY,high,abandon this game,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""abandon this game"", ""english"": true}",2026-11-14T22:48:29.812858+00:00,Neha,17,29,2538,0,1.26,185715027
+OTHER,high,ANYONE HELP,True,claude-sonnet-4-6,"{""reason"": ""OTHER"", ""confidence"": ""high"", ""evidence"": ""ANYONE HELP"", ""english"": true}",2026-11-14T22:48:30.384498+00:00,Neha,40,29,2538,0,1.43,186219667
+QUALITY,high,DirectX 12 is not supported on your system... It won't play on either one,True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""DirectX 12 is not supported on your system... It won't play on either one"", ""english"": true}
+```",2026-11-14T22:48:30.694117+00:00,Neha,323,50,2538,0,1.74,178956228
+QUALITY,high,it doesn't take much to break immersion and investment in the story with modern politics,True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""it doesn't take much to break immersion and investment in the story with modern politics"", ""english"": true}
+```",2026-11-14T22:48:31.415577+00:00,Neha,279,48,2538,0,1.6,173498506
+QUALITY,high,the game is very short... it s not a game but a DLC ! it s a scam,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""the game is very short... it s not a game but a DLC ! it s a scam"", ""english"": true}",2026-11-14T22:48:31.417272+00:00,Neha,77,47,2538,0,1.64,201645559
+OTHER,high,Puzzle Breach Wizards,True,claude-sonnet-4-6,"{""reason"": ""OTHER"", ""confidence"": ""high"", ""evidence"": ""Puzzle Breach Wizards"", ""english"": true}",2026-11-14T22:48:31.686082+00:00,Neha,18,32,2538,0,1.3,174654291
+QUALITY,high,the latest release feels very rushed...the new update does NOT mesh with previous updates,True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""the latest release feels very rushed...the new update does NOT mesh with previous updates"", ""english"": true}
+```",2026-11-14T22:48:31.836964+00:00,Neha,814,47,2538,0,2.07,179763622
+QUALITY,high,Bad UI & Multiple bugs,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""Bad UI & Multiple bugs"", ""english"": true}",2026-11-14T22:48:32.058940+00:00,Neha,135,31,2538,0,1.36,190310619
+BOTH,high,"The game was made largely by AI, both images and sounds ... Lack of content, the game has few recipes",True,claude-sonnet-4-6,"{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""The game was made largely by AI, both images and sounds ... Lack of content, the game has few recipes"", ""english"": true}",2026-11-14T22:48:33.146924+00:00,Neha,436,49,2538,0,1.73,172122691
+BOTH,high,I can tell there's a bunch of A I kinda bums me out... this game is VERY similar to Ale and Tale Tavern,True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""I can tell there's a bunch of A I kinda bums me out... this game is VERY similar to Ale and Tale Tavern"", ""english"": true}
+```",2026-11-14T22:48:33.274028+00:00,Neha,163,62,2538,0,1.86,172071072
+GENAI,medium,didnt realize this was running on AI until mid stream,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""medium"", ""evidence"": ""didnt realize this was running on AI until mid stream"", ""english"": true}",2026-11-14T22:48:33.323525+00:00,Neha,35,38,2538,0,1.49,172143691
+BOTH,medium,Uses AI assets are looks almost exactly like another upcoming tavern game,True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""medium"", ""evidence"": ""Uses AI assets are looks almost exactly like another upcoming tavern game"", ""english"": true}
+```",2026-11-14T22:48:33.337649+00:00,Neha,78,44,2538,0,1.65,172143465
+BOTH,high,"The AI art and voices is undesirable... same few recipes, a poor quest system, and no world or story to unlock",True,claude-sonnet-4-6,"{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""The AI art and voices is undesirable... same few recipes, a poor quest system, and no world or story to unlock"", ""english"": true}",2026-11-14T22:48:34.583133+00:00,Neha,133,52,2538,0,2.52,172143734
+BOTH,high,use of AI generated images is changed... gets boring after a few hours... fairies will end up doing all of the fun jobs... no road-map for future updates,True,claude-sonnet-4-6,"{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""use of AI generated images is changed... gets boring after a few hours... fairies will end up doing all of the fun jobs... no road-map for future updates"", ""english"": true}",2026-11-14T22:48:34.618288+00:00,Neha,604,60,2538,0,1.47,174323950
+QUALITY,high,gameplay feels like a chore,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""gameplay feels like a chore"", ""english"": true}",2026-11-14T22:48:34.641833+00:00,Neha,103,32,2538,0,1.32,196005602
+BOTH,high,disappointed to hear the game is using AI assets and art in the game,True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""disappointed to hear the game is using AI assets and art in the game"", ""english"": true}
+```",2026-11-14T22:48:34.822704+00:00,Neha,187,45,2538,0,1.55,180247059
+OTHER,high,my eyes are a little sensitive to the chiseling part i cant play it,True,claude-sonnet-4-6,"{""reason"": ""OTHER"", ""confidence"": ""high"", ""evidence"": ""my eyes are a little sensitive to the chiseling part i cant play it"", ""english"": true}",2026-11-14T22:48:34.837618+00:00,Neha,43,41,2538,0,1.5,196704196
+OTHER,high,.,True,claude-sonnet-4-6,"{""reason"": ""OTHER"", ""confidence"": ""high"", ""evidence"": ""."", ""english"": true}",2026-11-14T22:48:36.001641+00:00,Neha,11,25,2538,0,1.42,200259322
+QUALITY,medium,This one sucks nuts!,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""medium"", ""evidence"": ""This one sucks nuts!"", ""english"": true}",2026-11-14T22:48:36.015252+00:00,Neha,21,31,2538,0,1.37,159999219
+QUALITY,high,Lack of content makes it difficult to play - needs expansion,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""Lack of content makes it difficult to play - needs expansion"", ""english"": true}",2026-11-14T22:48:36.235524+00:00,Neha,50,38,2538,0,1.4,197162424
+QUALITY,high,confusing glitchy and after 40 minutes of messing about,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""confusing glitchy and after 40 minutes of messing about"", ""english"": true}",2026-11-14T22:48:36.246737+00:00,Neha,70,41,2538,0,1.42,202749849
+QUALITY,high,gets pretty repetitive...no change in the gameplay makes it more of a chore,True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""gets pretty repetitive...no change in the gameplay makes it more of a chore"", ""english"": true}
+```",2026-11-14T22:48:36.422822+00:00,Neha,198,48,2538,0,1.8,204444616
+QUALITY,high,"flat, boring copycat... unity asset flip... plays awful",True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""flat, boring copycat... unity asset flip... plays awful"", ""english"": true}
+```",2026-11-14T22:48:37.545252+00:00,Neha,186,43,2538,0,1.54,214037968
+QUALITY,high,crashing at every level when you progress,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""crashing at every level when you progress"", ""english"": true}",2026-11-14T22:48:37.559322+00:00,Neha,42,34,2538,0,1.54,214541611
+BOTH,high,it was a literal A.I bot like siri speaking / saying the dialogue... poorly optimised... not much to explore,True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""it was a literal A.I bot like siri speaking / saying the dialogue... poorly optimised... not much to explore"", ""english"": true}
+```",2026-11-14T22:48:38.165782+00:00,Neha,202,56,2538,0,1.93,189507369
+BOTH,high,Voices are the free-Version TTS,True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""Voices are the free-Version TTS"", ""english"": true}
+```",2026-11-14T22:48:38.171052+00:00,Neha,89,40,2538,0,1.75,189532989
+BOTH,high,"voices are AI generated, it doesnt feel convincing... switching between tablet and combat... unalived enemies appear sometimes as still alive",True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""voices are AI generated, it doesnt feel convincing... switching between tablet and combat... unalived enemies appear sometimes as still alive"", ""english"": true}
+```",2026-11-14T22:48:38.183147+00:00,Neha,368,58,2538,0,1.94,189512366
+BOTH,high,AI voice acting,True,claude-sonnet-4-6,"{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""AI voice acting"", ""english"": true}",2026-11-14T22:48:38.984336+00:00,Neha,194,29,2538,0,1.44,189648855
+BOTH,high,"AI generated voicelines, choppy attempts at Dark Souls Combat",True,claude-sonnet-4-6,"{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""AI generated voicelines, choppy attempts at Dark Souls Combat"", ""english"": true}",2026-11-14T22:48:38.986494+00:00,Neha,75,40,2538,0,1.43,189806225
+BOTH,high,remove the ai voices...tiktok ai slop,True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""remove the ai voices...tiktok ai slop"", ""english"": true}
+```",2026-11-14T22:48:39.757738+00:00,Neha,142,42,2538,0,1.57,191746569
+GENAI,high,majority of all character voice lines are AI generated and absolutely awful,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""majority of all character voice lines are AI generated and absolutely awful"", ""english"": true}",2026-11-14T22:48:39.764542+00:00,Neha,50,39,2538,0,1.59,190943920
+BOTH,high,i saw people talk about AI voice acting... i just wish they used actual voice actors and not a text-to-speech program,True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""i saw people talk about AI voice acting... i just wish they used actual voice actors and not a text-to-speech program"", ""english"": true}
+```",2026-11-14T22:48:39.837067+00:00,Neha,408,57,2538,0,1.67,190019618
+GENAI,high,the AI voice dialog just breaks the immersion,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""the AI voice dialog just breaks the immersion"", ""english"": true}",2026-11-14T22:48:40.315018+00:00,Neha,98,36,2538,0,1.33,192521466
+BOTH,high,My biggest gripe with this game is the sheer amount of AI generated content,True,claude-sonnet-4-6,"{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""My biggest gripe with this game is the sheer amount of AI generated content"", ""english"": true}",2026-11-14T22:48:40.470762+00:00,Neha,322,42,2538,0,1.48,202899960
+BOTH,high,"The trailer is clearly made from AI ... Very badly optimized, feels like every other asset survival game out there",True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""The trailer is clearly made from AI ... Very badly optimized, feels like every other asset survival game out there"", ""english"": true}
+```",2026-11-14T22:48:41.360477+00:00,Neha,160,53,2538,0,1.6,200024987
+BOTH,high,Story: AI Bot (checkbox selected),True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""Story: AI Bot (checkbox selected)"", ""english"": true}
+```",2026-11-14T22:48:41.521547+00:00,Neha,1467,38,2538,0,1.68,200120788
+BOTH,medium,"lagging, having low fps...game feels super clunky. Dont like the AI features as well",True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""medium"", ""evidence"": ""lagging, having low fps...game feels super clunky. Dont like the AI features as well"", ""english"": true}
+```",2026-11-14T22:48:41.532469+00:00,Neha,166,53,2538,0,1.77,200070624
+QUALITY,high,unplayable...released way too early...can't even finish the tutorial because of bugs,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""unplayable...released way too early...can't even finish the tutorial because of bugs"", ""english"": true}",2026-11-14T22:48:41.819506+00:00,Neha,37,44,2538,0,1.5,205060269
+GENAI,high,avoid Gen AI all together,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""avoid Gen AI all together"", ""english"": true}",2026-11-14T22:48:41.987278+00:00,Neha,83,32,2538,0,1.52,212890344
+BOTH,medium,I don't like ai in my video games,True,claude-sonnet-4-6,"{""reason"": ""BOTH"", ""confidence"": ""medium"", ""evidence"": ""I don't like ai in my video games"", ""english"": true}",2026-11-14T22:48:42.774395+00:00,Neha,56,35,2538,0,1.41,214112955
+BOTH,high,"thirst trap AI generated character ""art"" aimed at 15 year old Hentai fans",True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""thirst trap AI generated character \""art\"" aimed at 15 year old Hentai fans"", ""english"": true}
+```",2026-11-14T22:48:43.185966+00:00,Neha,267,52,2538,0,1.65,189863791
+GENAI,high,ruined by the use of AI art,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""ruined by the use of AI art"", ""english"": true}",2026-11-14T22:48:43.189218+00:00,Neha,60,35,2538,0,1.37,195887589
+BOTH,high,Yes. There is A.I. art. And what is worse is the fact that not only is it extremely poorly done. It is also completely unnecessary.,True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""Yes. There is A.I. art. And what is worse is the fact that not only is it extremely poorly done. It is also completely unnecessary."", ""english"": true}
+```",2026-11-14T22:48:43.508968+00:00,Neha,1363,62,2538,0,1.99,174405008
+BOTH,high,"wonky menus, poorly translated text, and bloated team management gameplay... all of this ai art",True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""wonky menus, poorly translated text, and bloated team management gameplay... all of this ai art"", ""english"": true}
+```",2026-11-14T22:48:43.798843+00:00,Neha,170,52,2538,0,1.81,200427305
+BOTH,high,AI art isn't great... incredibly hard to understand if you don't speak Chinese,True,claude-sonnet-4-6,"{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""AI art isn't great... incredibly hard to understand if you don't speak Chinese"", ""english"": true}",2026-11-14T22:48:44.206689+00:00,Neha,71,42,2538,0,1.43,200885553
+QUALITY,high,lack of a unique selling point,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""lack of a unique selling point"", ""english"": true}",2026-11-14T22:48:44.639860+00:00,Neha,80,32,2538,0,1.45,189082243
+OTHER,high,the game is not for me,True,claude-sonnet-4-6,"```json
+{""reason"": ""OTHER"", ""confidence"": ""high"", ""evidence"": ""the game is not for me"", ""english"": true}
+```",2026-11-14T22:48:44.930159+00:00,Neha,141,36,2538,0,1.74,205720912
+QUALITY,high,overpriced for the minimal number of levers you get to pull in the game loop,True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""overpriced for the minimal number of levers you get to pull in the game loop"", ""english"": true}
+```",2026-11-14T22:48:45.138802+00:00,Neha,138,49,2538,0,1.63,190300396
+QUALITY,medium,the story is not that groundbreaking and is delivered through a very slow and unsatisfying way,True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""medium"", ""evidence"": ""the story is not that groundbreaking and is delivered through a very slow and unsatisfying way"", ""english"": true}
+```",2026-11-14T22:48:45.537808+00:00,Neha,177,51,2538,0,1.74,201135907
+GENAI,medium,"the datasets being AI generated, it really undermined the story for me personally",True,claude-sonnet-4-6,"```json
+{""reason"": ""GENAI"", ""confidence"": ""medium"", ""evidence"": ""the datasets being AI generated, it really undermined the story for me personally"", ""english"": true}
+```",2026-11-14T22:48:45.907309+00:00,Neha,106,47,2538,0,1.7,213989488
+QUALITY,high,"falls very short, very quickly",True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""falls very short, very quickly"", ""english"": true}
+```",2026-11-14T22:48:45.984964+00:00,Neha,262,37,2538,0,1.34,205468323
+QUALITY,high,"very hard with pissy bow against their guns, you crouch in tall grass yet they see and start shooting you",True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""very hard with pissy bow against their guns, you crouch in tall grass yet they see and start shooting you"", ""english"": true}",2026-11-14T22:48:46.567682+00:00,Neha,73,49,2538,0,1.64,205653870
+OTHER,high,refunded SCUM v2,True,claude-sonnet-4-6,"{""reason"": ""OTHER"", ""confidence"": ""high"", ""evidence"": ""refunded SCUM v2"", ""english"": true}",2026-11-14T22:48:46.570098+00:00,Neha,17,32,2538,0,1.43,207116416
+QUALITY,high,Bosses glitch and you will have to kill them multiple times,True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""Bosses glitch and you will have to kill them multiple times"", ""english"": true}
+```",2026-11-14T22:48:47.067789+00:00,Neha,126,45,2538,0,1.53,167627322
+BOTH,high,"the use of AI images in both the title and pre-day hub area, alongside the AI music",True,claude-sonnet-4-6,"{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""the use of AI images in both the title and pre-day hub area, alongside the AI music"", ""english"": true}",2026-11-14T22:48:47.574549+00:00,Neha,460,46,2538,0,1.59,179567353
+BOTH,high,"the AI voice in the game store? Really? Just, no. / all the clicking you'll have to do...sucks",True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""the AI voice in the game store? Really? Just, no. / all the clicking you'll have to do...sucks"", ""english"": true}
+```",2026-11-14T22:48:47.892139+00:00,Neha,145,57,2538,0,1.98,179116027
+QUALITY,medium,definitely not a good game,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""medium"", ""evidence"": ""definitely not a good game"", ""english"": true}",2026-11-14T22:48:48.045222+00:00,Neha,60,31,2538,0,1.48,212739687
+GENAI,high,This game is practically made by AI,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""This game is practically made by AI"", ""english"": true}",2026-11-14T22:48:48.055617+00:00,Neha,48,34,2538,0,1.49,179754681
+QUALITY,high,Still missing a server browser. Not even on the roadmap,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""Still missing a server browser. Not even on the roadmap"", ""english"": true}",2026-11-14T22:48:48.510200+00:00,Neha,22,38,2538,0,1.44,160432240
+GENAI,high,AI generated images in the game,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""AI generated images in the game"", ""english"": true}",2026-11-14T22:48:49.032617+00:00,Neha,19,33,2538,0,1.46,161415877
+GENAI,high,"this game uses both actors, and AI for its voice work",True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""this game uses both actors, and AI for its voice work"", ""english"": true}",2026-11-14T22:48:50.047544+00:00,Neha,158,39,2538,0,1.54,159792240
+QUALITY,high,"it's dead, 3 months... Definition of a rugpull. Skin packs cost more than the game, very little meat on the bone",True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""it's dead, 3 months... Definition of a rugpull. Skin packs cost more than the game, very little meat on the bone"", ""english"": true}",2026-11-14T22:48:50.049954+00:00,Neha,77,58,2538,0,2.16,166191137
+BOTH,high,"this game use AI voices ... gameplay, its performance, its scope, and the AMMOUNT OF GRIND just doesn't make it a worthwhile purchase",True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""this game use AI voices ... gameplay, its performance, its scope, and the AMMOUNT OF GRIND just doesn't make it a worthwhile purchase"", ""english"": true}
+```",2026-11-14T22:48:50.299769+00:00,Neha,539,63,2538,0,2.24,159787371
+BOTH,high,"AI voice acting. And bad writing. It really, really hurts.",True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""AI voice acting. And bad writing. It really, really hurts."", ""english"": true}
+```",2026-11-14T22:48:50.563085+00:00,Neha,785,45,2538,0,1.53,159813585
+GENAI,high,AI slop,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""AI slop"", ""english"": true}",2026-11-14T22:48:51.272291+00:00,Neha,16,30,2538,0,1.22,159831443
+BOTH,high,the AI voice acting is for the most part fine but every now and then they'll sound really jarring when emoting something the wrong way,True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""the AI voice acting is for the most part fine but every now and then they'll sound really jarring when emoting something the wrong way"", ""english"": true}
+```",2026-11-14T22:48:51.788426+00:00,Neha,428,59,2538,0,1.74,159842984
+QUALITY,high,flying feels extremely wonky,True,claude-sonnet-4-6,"{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""flying feels extremely wonky"", ""english"": true}",2026-11-14T22:48:51.790509+00:00,Neha,50,31,2538,0,1.49,159996299
+GENAI,high,the AI voice acting is so utterly devoid of emotion,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""the AI voice acting is so utterly devoid of emotion"", ""english"": true}",2026-11-14T22:48:52.091104+00:00,Neha,120,39,2538,0,1.53,160450533
+parse_error,low,,,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""AI voice acting is appalling. Human beings should be paid for their work. Also, the voices just sound bad."", ""english"": true}
+
+Wait, let me reconsider. The review has an ethical objection to AI voice acting (GENAI anchor) AND a separate quality complaint (""the voices just sound bad""). The second complaint about voices sounding bad is linked to the AI voices — it's the same content being criticized. Per the guide: ""a problem blamed on generative AI is one AI complaint, not BOTH."" The ""voices just sound bad"" is about the same AI voices, not a separate non-AI complaint.
+
+{""reason"": ""GENAI"", ""confidence"": ""medium"", ""evidence"": ""AI voice acting is appalling. Human beings should be paid for their work. Also, the voices just sound bad."", ""english"": true}",2026-11-14T22:48:52.243699+00:00,Neha,37,200,2538,0,4.2,159747445
+GENAI,high,AI voice work killed this game for me,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""AI voice work killed this game for me"", ""english"": true}",2026-11-14T22:48:52.805800+00:00,Neha,37,35,2538,0,1.53,161502704
+GENAI,high,use of AI is appalling,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""use of AI is appalling"", ""english"": true}",2026-11-14T22:48:53.222427+00:00,Neha,16,33,2538,0,1.43,164315176
+GENAI,high,AI voice acting is mind numbing,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""AI voice acting is mind numbing"", ""english"": true}",2026-11-14T22:48:53.389503+00:00,Neha,60,34,2538,0,1.3,165002145
+GENAI,high,Awful AI voice gen,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""Awful AI voice gen"", ""english"": true}",2026-11-14T22:48:53.482151+00:00,Neha,26,32,2538,0,1.24,168741517
+BOTH,high,"AI disclaimer of using AI to generate speech in the game, when, in reality, there was far more that AI had been used to generate...portraits and dialogue",True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""AI disclaimer of using AI to generate speech in the game, when, in reality, there was far more that AI had been used to generate...portraits and dialogue"", ""english"": true}
+```",2026-11-14T22:48:53.564102+00:00,Neha,532,63,2538,0,1.78,162965156
+GENAI,high,it is AI generated,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""it is AI generated"", ""english"": true}",2026-11-14T22:48:54.244071+00:00,Neha,74,31,2538,0,1.44,172205572
+GENAI,high,uses AI generated content,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""uses AI generated content"", ""english"": true}",2026-11-14T22:48:54.652116+00:00,Neha,36,31,2538,0,1.43,186254486
+BOTH,high,"the ai voices and yeah they are bad, but really this game isn't a story driven dialogue game",True,claude-sonnet-4-6,"{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""the ai voices and yeah they are bad, but really this game isn't a story driven dialogue game"", ""english"": true}",2026-11-14T22:48:55.063382+00:00,Neha,303,46,2538,0,1.67,186699953
+BOTH,high,clunky controls and they used generative AI for everything,True,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""high"", ""evidence"": ""clunky controls and they used generative AI for everything"", ""english"": true}
+```",2026-11-14T22:48:55.065525+00:00,Neha,130,43,2538,0,1.58,189405144
+QUALITY,high,Bugs (especially if you are taking out the enemy zeppelins... my plane somehow crashed into the enemy vessel),True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""Bugs (especially if you are taking out the enemy zeppelins... my plane somehow crashed into the enemy vessel)"", ""english"": true}
+```",2026-11-14T22:48:55.281700+00:00,Neha,397,55,2538,0,1.72,212842369
+GENAI,high,AI voices are so offputting,True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""AI voices are so offputting"", ""english"": true}",2026-11-14T22:48:56.105752+00:00,Neha,31,34,2538,0,1.45,214358883
+QUALITY,high,Too short and I picked up on one of the major twists at the very beginning,True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""Too short and I picked up on one of the major twists at the very beginning"", ""english"": true}
+```",2026-11-14T22:48:56.804611+00:00,Neha,206,48,2538,0,1.74,175659709
+QUALITY,high,it just lacked more content,True,claude-sonnet-4-6,"```json
+{""reason"": ""QUALITY"", ""confidence"": ""high"", ""evidence"": ""it just lacked more content"", ""english"": true}
+```",2026-11-14T22:48:56.805752+00:00,Neha,142,37,2538,0,1.74,170729113
+parse_error,low,,,claude-sonnet-4-6,"```json
+{""reason"": ""BOTH"", ""confidence"": ""medium"", ""evidence"": ""Between that and the AI this game is hot garbage"", ""english"": true}
+```
+
+Wait, let me reconsider. ""The AI"" here is ambiguous — it could mean enemy/NPC AI (game AI) or generative AI. Given the context of a flight/space combat game (Rogue Squadron, Battle for Naboo references), ""the AI"" most likely refers to enemy AI behavior, not generative AI. That would make this a pure `QUALITY` review.
+
+```json
+{""reason"": ""QUALITY"", ""confidence"": ""medium"", ""evidence"": ""joystick locked out, uncontrollable mess, the AI this game is hot garbage"", ""english"": true}
+```",2026-11-14T22:48:58.116486+00:00,Neha,87,176,2538,0,3.87,213641027
+GENAI,high,"AI voice acting is appalling. Human beings should be paid for their work. Also, the voices just sound bad.",True,claude-sonnet-4-6,"{""reason"": ""GENAI"", ""confidence"": ""high"", ""evidence"": ""AI voice acting is appalling. Human beings should be paid for their work. Also, the voices just sound bad."", ""english"": true}",2026-11-14T22:54:20.922785+00:00,Neha,37,50,0,2538,1.84,159747445
+BOTH,medium,Between that and the AI this game is hot garbage,True,claude-sonnet-4-6,"{""reason"": ""BOTH"", ""confidence"": ""medium"", ""evidence"": ""Between that and the AI this game is hot garbage"", ""english"": true}",2026-11-14T22:54:20.923248+00:00,Neha,87,36,0,2538,1.83,213641027
