@@ -1,17 +1,17 @@
-sheet_id,review,reason,unsure,tts,note,GENAI,QUALITY,BOTH,OTHER,SKIP
+sheet_id,review,reason,unsure,tts,note
 1,"Incredibly unsubtle, anti-AI/exploitative tech resource manager/idle clicker that loses momentum about ~30m-1h before the ending stretch; it doesn't really justify using AI assets for the dataset from one of the biggest offenders of reckless, forced AI expansion IRL (NVIDIA) since the faces will stop being relevant to the plot about 10 minutes into a playthrough once auto mode's used — an actual artist or even stock images could've easily been used in this regard.
 
-I'd say the only positives are the visuals, which do a better job of emulating the 90s desktop vibes than other games I've seen like Hypnospace Outlaw, and the soundtrack. Pretty much everything else has been explored in much better ways.",BOTH,,,,,,,,
+I'd say the only positives are the visuals, which do a better job of emulating the 90s desktop vibes than other games I've seen like Hypnospace Outlaw, and the soundtrack. Pretty much everything else has been explored in much better ways.",BOTH,,,
 2,"Kinda fun, but ai slop banner. 
 
-This game makes me wish there would be a full fleshed tavern master game in a fantasy world of adventurers/Knights/magicians",GENAI,,,,,,,,
-3,"Its like DLC for SE5, everything seems familiar in the game SE 5, that's why i like more SE4",QUALITY,,,,,,,,
-4,"This game starts off pretty strong. Several of the elements feel like they will get more and more enjoyable. However, once you get to a certain point, it pretty much is the same as any other type of explore and build game. Do I hate it, no - but it just doesn't keep my interest going as long as I would have hoped. If you get it on sale - it is worth it. Note, that I hope the game progression is much more entertaining in future updates. I will review the game again once it has more progress in the plot.",QUALITY,,,,,,,,
-5,This game is absolutely awful. The AI has regressed in the biggest possible way. I highly recommend not purchasing this game!!!,QUALITY,,,I think referring to enemy/NPC AI,,,,,
-6,"Papa's pizzeria but it's AI slop. and insanely boring on top of that as well. make number go up, do new tedious tasks. nothing behind it all, just slop.",BOTH,,,,,,,,
-7,Game has been abandoned - not updated for over a year. Do not buy,QUALITY,,,,,,,,
-8,That shi is making my gpu sweat lije a mfin marathon runner. Optimization sucks. Gameplay 50/50. I’m using cheats to make it playable.,QUALITY,,,,,,,,
-9,i have not been able to get over 65 hours on a game save without everything getting corrupted and bugging out to the point it is unplayable. Ive tried to contact giants so they could fix the save but it didnt work. Waste of time and money.,QUALITY,,,,,,,,
+This game makes me wish there would be a full fleshed tavern master game in a fantasy world of adventurers/Knights/magicians",GENAI,,,
+3,"Its like DLC for SE5, everything seems familiar in the game SE 5, that's why i like more SE4",QUALITY,,,
+4,"This game starts off pretty strong. Several of the elements feel like they will get more and more enjoyable. However, once you get to a certain point, it pretty much is the same as any other type of explore and build game. Do I hate it, no - but it just doesn't keep my interest going as long as I would have hoped. If you get it on sale - it is worth it. Note, that I hope the game progression is much more entertaining in future updates. I will review the game again once it has more progress in the plot.",QUALITY,,,
+5,This game is absolutely awful. The AI has regressed in the biggest possible way. I highly recommend not purchasing this game!!!,QUALITY,,,I think referring to enemy/NPC AI
+6,"Papa's pizzeria but it's AI slop. and insanely boring on top of that as well. make number go up, do new tedious tasks. nothing behind it all, just slop.",BOTH,,,
+7,Game has been abandoned - not updated for over a year. Do not buy,QUALITY,,,
+8,That shi is making my gpu sweat lije a mfin marathon runner. Optimization sucks. Gameplay 50/50. I’m using cheats to make it playable.,QUALITY,,,
+9,i have not been able to get over 65 hours on a game save without everything getting corrupted and bugging out to the point it is unplayable. Ive tried to contact giants so they could fix the save but it didnt work. Waste of time and money.,QUALITY,,,
 10,"(don't mind the playtime, I played this before on GamePass).
 
 So I'm going into this game one last time, player base is dead and we're at a 60% discount and free weekend. This has not affected the game's player base at all, and above all, the game is still not fun.
@@ -28,7 +28,7 @@ If you go into this with an unlimited weekend of time you'll have 100% this game
 
 No, no it isn't and it never will be.
 
-0/10 possibly the worst game I have played in my entire life.",BOTH,,,,,,,,
+0/10 possibly the worst game I have played in my entire life.",BOTH,,,
 11,"as much as I enjoy this game, there's a few things that make the experience a bit less enjoyable
 
 1 - health regens too slow (I have to sit and wait between enemies and work on something else while my health returns.) if health items didn't expire, this wouldn't be too bad.
@@ -45,7 +45,7 @@ No, no it isn't and it never will be.
 
 7 - personal taste but the game would be awesome if ai art wasn't used (I can't 100% confirm but when I looked into it, people have noted that it more than likely is which is a shame as the actual scenery in the game is lovely)
 
-the game in general is honestly a really nice way to pass time, I'm enjoying the story and the mechanics are fairly nice as well. the game scratches an itch I've had that other games haven't gotten close to and overall it's not a terrible game to pick up especially on sale. I do look forward to seeing how the game progresses and hope that some of these things are fixed in the future <3",BOTH,,,,,,,,
+the game in general is honestly a really nice way to pass time, I'm enjoying the story and the mechanics are fairly nice as well. the game scratches an itch I've had that other games haven't gotten close to and overall it's not a terrible game to pick up especially on sale. I do look forward to seeing how the game progresses and hope that some of these things are fixed in the future <3",BOTH,,,
 12,"Sniper Elite: Resistance feels more like a large expansion for Sniper Elite 5 than a standalone game. 
 The campaign puts players in the role of Harry Hawker and, honestly, I hope Rebellion never lets whoever wrote some of his dialogue do it again. Hawker is one of the blandest protagonists in the series, and very little about him makes him memorable. 
 
@@ -56,7 +56,7 @@ Sadly, that is where most of the positives end. At its core, Resistance is the s
 
 If you were disappointed by Sniper Elite 5, Resistance is unlikely to change your mind. If you enjoyed Sniper Elite 5, you may find some value here, but I would still recommend waiting for a significant discount.
 
-In my opinion, Resistance should have been a DLC rather than a standalone release.",QUALITY,,,,,,,,
+In my opinion, Resistance should have been a DLC rather than a standalone release.",QUALITY,,,
 13,"The best way I could describe this game is disappointing.
 
 As a huge fan of the Remedyverse I was immensely looking forward to this game, and what I ended up getting was... lacklustre, to say the least.
@@ -64,28 +64,28 @@ As a huge fan of the Remedyverse I was immensely looking forward to this game, a
 I genuinely don't know why they rushed the release of this game so much. The amount of content is so miniscule, the replayability is pretty much non-existent, and with the game not getting more updates there's nothing left to bring you back to it. There's essentially no lore to be explored, in the most lore heavy setting of the series, which I found to be the most saddening fact. The gunplay is [i]fine[/i] and entirely unremarkable. The concept of a Left 4 Dead clone in the Control universe is incredible, the execution is unfortunately sloppy.
 It's not ALL bad - the soundtrack is nice and groovy, and the banter between the firebreakers can be amusing, but that's about it. All of the other gameplay elements have been done better elsewhere.
 
-Never thought I'd be writing a negative review of a Remedy game, but this one isn't really worth it even at a 40% price reduction.",QUALITY,,,,,,,,
+Never thought I'd be writing a negative review of a Remedy game, but this one isn't really worth it even at a 40% price reduction.",QUALITY,,,
 14,"As much as I loved the game, there are a few sore points about it that prevents me from giving this visually beautiful game a thumbs up.
 
 1. I don't approve of the use of AI to do voice lines for characters. Asides from ethical reason, I think it takes away from the impact characters have on the story. I think if its within the budget the developers should replace it with actual voice actors.
 
 2. Two minigames are kind of annoying. The first one being the taxi boat minigame, its difficult to maneuver in a obnoxious way. I think the difficult controls were partly intentional, but after completing the relevant pilot mission i didn't ever want to replay it with how frustrating it was to just turn, only to go way too far. The second was the deep-sea winch minigame, it was impossible to tell how close or far the sharks and jellyfish were relative to the line, making it really frustrating when i lose the crate because I couldn't judge how close the jellyfish was.
 
-3. Why can't I play the boardgame minigame from my own bar? Why do I have to go to another bar just to play it?",BOTH,,,,,,,,
-15,"The game has server issues, for that reason you can NOT play the game. No answers from the dev. No updates. The game seems to be dead. DO NOT BUY IT.",QUALITY,,,,,,,,
+3. Why can't I play the boardgame minigame from my own bar? Why do I have to go to another bar just to play it?",BOTH,,,
+15,"The game has server issues, for that reason you can NOT play the game. No answers from the dev. No updates. The game seems to be dead. DO NOT BUY IT.",QUALITY,,,
 16,"The inventory management on a survival game is one of the worst I have seen. It is just ugly, sloppy and there is zero quality of life. Base building is so minimalistic, survival is so minimalistic, fighting is a bit janky and the game is moderately buggy. The missions are boring with retrieve or kill missions only... the game, even though it is UE5, hurts my eyes so bad. The foliage is just terrible even on max settings and motion blur off... 
 
 All in all, there just is not much there after being in EA for over a year. 
 
-Will changed my review if the game ever gets meaningful updates but until then, the game is a no for me.",QUALITY,,,,,,,,
-17,"this game is ai slop slapped on a husk of a great idea , it almost looked like a early flash game with a twist but no lets generate with jewgpt",GENAI,,,,,,,,
-18,Didn't spot the AI tag unfortunately,GENAI,,,,,,,,
-19,AI slop abounds,GENAI,,,,,,,,
+Will changed my review if the game ever gets meaningful updates but until then, the game is a no for me.",QUALITY,,,
+17,"this game is ai slop slapped on a husk of a great idea , it almost looked like a early flash game with a twist but no lets generate with jewgpt",GENAI,,,
+18,Didn't spot the AI tag unfortunately,GENAI,,,
+19,AI slop abounds,GENAI,,,
 20,"A group of 3 indie devs set out to make a game that punches above its weight and they succeeded! The flying feels good and not too arcadey without going into sim-like.
 
 Unfortunately I can't recommend AI usage for the voiceovers instead of hiring real humans. Using AI instead of not having voicelines is certainly a choice for the developers. I'll be wary of every game they publish going forward.
 
-Good game, so you deserve every cent I paid for this. You aint getting my recommendation though.",GENAI,,,,,,,,
+Good game, so you deserve every cent I paid for this. You aint getting my recommendation though.",GENAI,,,
 21,"Can someone on the dev team help me understand why the aesthetic had to be changed so drastically? Any person can look at the shooter market and see hundreds of gritty military soldiers in various realistic environments. To the point where it is gratuitous. You stripped the fun and whimsy and made it look like Black Ops 2. Nobody wanted that.
 
 It's also obvious that you stripped what little character customization Killing Floor 2 had to build out a battle pass and try to cash in on the live service slop almost every other game is offering these days. Not that Killing Floor 2's cosmetic micros is anything to brag about, that was worse in several ways. Honestly never really forgave Tripwire for that microtransaction filled hellscape.
@@ -96,15 +96,15 @@ I cannot believe they tried to do a hero shooter mechanic. How many hero shooter
 
 Under 1,000 current players... speaks for itself. Killing Floor 2 is still going with over 5,000 players. That's more than Marathon. Killing Floor 3 has less players than Marathon.
 
-Tripwire, it's time for a EOS announcement. Pull this game from the market and try again. Or don't, I could care less at this point.",QUALITY,,,,,,,,
+Tripwire, it's time for a EOS announcement. Pull this game from the market and try again. Or don't, I could care less at this point.",QUALITY,,,
 22,"2/10 do chores the game. you need to wash every single mug they use one by one and you only own 10 of them.
 - everything is locked behind boosting your taverns rep to X level 1st
 - can only hold 4 things on a tray
 - stop trying to sell me other shit every time i turn the game on
 - ai slop art
 - at no point can you hire a human to help you. you can get a fairy that does 1 task for each one and it takes ages to unlock the 1st and more.
-- fairys wont do anything water, wood, ice box, hay, or horse related. all the worst tasks are on you.",BOTH,,,,,,,,
-23,"This is absolutely horrendous! I feel ripped off it is so bad.  I feel deeply disappointed in the devs.  This game does not know what it wants to be.  It is AI slop.   This is literally the worst game I have ever played. I own approximately 500 games.  Luckily I bought a steam key on another site for 14.00 usd. I wasted an hour working to buy this game and then wasted 4 hours figuring out I wasted my time. Hopefully this will help you not waste any more time.  Look elsewhere!  Had I paid the steam full price I would be even more upset.  Save your money. Trust me, it is bad.  This is an On rails "" poorly constructed open environment that is boring, predictable, cheeesy.  It feels like a game made by a.i. resembling something from 2007.    Sound design is horrible.   The voice over is weird.  And the biggest gripe so far are the GUN SOUNDS!!! they are soooo quiet and WEAK SOUNDING.   Bring up the volume.  I want to feel the shots.  play the game bodycam.  Also, why no LEAN function to peak around corners?  Maybe it does later in the game?  That would be another easier implementation to help with immersion.   Otherwise, I am going to keep trying the game.",BOTH,,,,,,,,
+- fairys wont do anything water, wood, ice box, hay, or horse related. all the worst tasks are on you.",BOTH,,,
+23,"This is absolutely horrendous! I feel ripped off it is so bad.  I feel deeply disappointed in the devs.  This game does not know what it wants to be.  It is AI slop.   This is literally the worst game I have ever played. I own approximately 500 games.  Luckily I bought a steam key on another site for 14.00 usd. I wasted an hour working to buy this game and then wasted 4 hours figuring out I wasted my time. Hopefully this will help you not waste any more time.  Look elsewhere!  Had I paid the steam full price I would be even more upset.  Save your money. Trust me, it is bad.  This is an On rails "" poorly constructed open environment that is boring, predictable, cheeesy.  It feels like a game made by a.i. resembling something from 2007.    Sound design is horrible.   The voice over is weird.  And the biggest gripe so far are the GUN SOUNDS!!! they are soooo quiet and WEAK SOUNDING.   Bring up the volume.  I want to feel the shots.  play the game bodycam.  Also, why no LEAN function to peak around corners?  Maybe it does later in the game?  That would be another easier implementation to help with immersion.   Otherwise, I am going to keep trying the game.",BOTH,,,
 24,"This is a mixed review after 30 hours of play. 
 
 I find that the game itself is and can be very beautiful and peaceful. Building up your island feels very rewarding, however the building itself is one of the worst in any game I've played. 
@@ -120,15 +120,15 @@ Exploration is cool and you find some interesting abandoned villages and neat pu
 
 As far as crafting goes there are some cool mini games to crafting but there are also some that where best left on paper like early game cooking water which needs to be done manually via a mini game that gets very repetitive and gives about 5 water per minute.
 
-Altogether this is a pretty game that has some nice peaceful moments but ultimately feels disorganized by to many ideas and systems being mashed together. As it's still in early access I hope the devs can streamline the experience into a more pleasurable and reward time.",QUALITY,,,,,,,,
-25,Another fun game ruined by the use of gen A.I i know making game is hard but are you really that lazy your release a game half done and with gen A.I filler dialog just ruins the dialog when half way through talking to a npc you suddenly hear that lazy monotonus toned A.I voice,GENAI,,,,,,,,
+Altogether this is a pretty game that has some nice peaceful moments but ultimately feels disorganized by to many ideas and systems being mashed together. As it's still in early access I hope the devs can streamline the experience into a more pleasurable and reward time.",QUALITY,,,
+25,Another fun game ruined by the use of gen A.I i know making game is hard but are you really that lazy your release a game half done and with gen A.I filler dialog just ruins the dialog when half way through talking to a npc you suddenly hear that lazy monotonus toned A.I voice,GENAI,,,
 26,"I used to love this game.  Played through to the teapot four times!  I loved being an ecosystem engineer with my mobile clinic of plants, animals and insects to rescue degraded islands.  And most of all, loved the AGENCY I had as a player.  Sure, I had to hit up the special unlock islands but other than that I could visit the rest of the game world in any order.
 
 The Bloom & Blight update nerfed a lot of player agency.  The base side of things (building, crafting, farming) is still good when you finally manage to unlock the techs.  But getting those unlocks is quite regimented, and a bit harsh.  Progression may look like a tree, but it acts more like a numbered checklist.  There are step-by-step guides on the workshop to teach the ideal unlock order but even then you'll be forced to choose between two timely and essential unlocks.  For example: combat buffs from cooking -OR- farming sheep.  Make a wrong choice and progression is on hold until you pass the time-consuming 'visit these specific islands in this order before proceeding' chore.  
 
 In my house we've started calling Aloft ""Backtrackia.""  That's the effect of the restrictive progression system.  A lot of time spent sailing backwards to the islands with stuff we weren't allowed to make use of when we first passed through the area.
 
-If you are tolerant of all the gate keeping it's otherwise a lovely game.  I'm not, so for me that only saving grace is legacy version of the game under Betas.",QUALITY,,,,,,,,
+If you are tolerant of all the gate keeping it's otherwise a lovely game.  I'm not, so for me that only saving grace is legacy version of the game under Betas.",QUALITY,,,
 27,"This game focuses more on [b]aesthetics[/b] rather than [b]gameplay[/b].
 
 You're basically doing captcha's of faces at the start, then you automate it, and then game adds management genre into the loop, since upgrading your automation will put stress on your PC components which will need upgrading. And to upgrade them you'll need to [b]W A I T[/b] for your money to accumulate, up to 3 times (for 3 different components). 
@@ -141,12 +141,12 @@ Things that are less important: [b]achievements[/b] are quite varied, but requir
 [hr][/hr]
 
 Captcha'd a cat, burned/flooded the world for social credits AI monitoring (thrice), BSOD'd 5.27$ worth of equipment, [b]6/10[/b]
-Aesthetics still go hard, if thats what you're looking for - you might like it.",QUALITY,,,,,,,,
-28,Disappointed to see AI visuals and AI voices,GENAI,,,,,,,,
-29,"Running off the 'Sniper Elite' name popularity, this game offers little compared to the former  games in the series.   Really disappointed.  They just threw it together and it really shows with the lack of creativity.  Thank goodness I waited for it to go on sale.  Even  at a fraction of the original price, I still feel like it was a waste of money.    After all that have come before... ( yes I have them all), this one is a black spot on what used to be a pretty good record.",QUALITY,,,,,,,,
-30,"good luck to anyone trying to run this on minimum requirements, once you start driving the car it becomes unplayable",QUALITY,,,,,,,,
-31,utter slop,QUALITY,,,,,,,,
-32,"Its not very good, its poorly made and just another simulator asset flip slop game.",QUALITY,,,,,,,,
+Aesthetics still go hard, if thats what you're looking for - you might like it.",QUALITY,,,
+28,Disappointed to see AI visuals and AI voices,GENAI,,,
+29,"Running off the 'Sniper Elite' name popularity, this game offers little compared to the former  games in the series.   Really disappointed.  They just threw it together and it really shows with the lack of creativity.  Thank goodness I waited for it to go on sale.  Even  at a fraction of the original price, I still feel like it was a waste of money.    After all that have come before... ( yes I have them all), this one is a black spot on what used to be a pretty good record.",QUALITY,,,
+30,"good luck to anyone trying to run this on minimum requirements, once you start driving the car it becomes unplayable",QUALITY,,,
+31,utter slop,OTHER,,,
+32,"Its not very good, its poorly made and just another simulator asset flip slop game.",QUALITY,,,
 33,"this game is honestly horrid. 
 please dont waste your money lol.
 
@@ -169,13 +169,13 @@ people not doing their job if you fire and hire a new person
 fully upgraded everything and during rushes it still gets dirty and people complain. 
 like speed 5, max upgrades , max amount of hires. 
 
-its just trash lol its so boring i look forward to finishing it so i never have to open it again. >:(",BOTH,,,,,,,,
+its just trash lol its so boring i look forward to finishing it so i never have to open it again. >:(",BOTH,,,
 34,"The parts that make up Farm Simulator are all quite good. The physics works well, the terrain works well, it's reasonably stable, visually well done, the map design is good, the tree cutting is probably the best in any game.
 
 So why a negative review? As a game, it's very shallow and simple. There are only so many time's you're going to enjoy harvesting a field yourself. There's AI but they don't work particularly well, or at all for some tasks. This game sort of want's to be a management game I think, but it's not. Sid Meyer once said that a game is a series of interesting decisions, but there are almost no decisions in this game, there's a pretty obvious best way to do things and nothing ever changes.
 
-It really boils down to a handful of well done minigames that become tedious after very little time. The bones are good, this could become a good game, but it's just not yet.",QUALITY,,,,,,,,
-35,"riddled with ai art, seems major scenes are pre rendered. not about to find out. Refunded",GENAI,,,,,,,,
+It really boils down to a handful of well done minigames that become tedious after very little time. The bones are good, this could become a good game, but it's just not yet.",QUALITY,,,
+35,"riddled with ai art, seems major scenes are pre rendered. not about to find out. Refunded",GENAI,,,
 36,"I'd like to be able to recommend this game, but it's plainly unfinished and suffers from a wide variety of bugs, a lack of endgame content, and a profound lack of QOL features.
 
 Here are some examples:
@@ -195,31 +195,31 @@ Conclusion: This game showed promise, but instead of being a labor of love, it w
 
 With that said, I am still a sucker for games like this, and it'll probably take me some time to fully disentangle myself from this disappointment.
 
-Also you can't customize the stairs or the buildings' roofs. Tragic.",QUALITY,,,,,,,,
+Also you can't customize the stairs or the buildings' roofs. Tragic.",QUALITY,,,
 37,"This game felt like it had some potential. The flying is neat, but the combat is weak and the fetch quests are just annoying.
 
-My big problem though? AI voices. The devs couldn't be bothered to get ACTUAL PEOPLE to voice their game. I feel disgusted knowing I put almost ten hours into this game. If I could undo all of that and never have given these people my money, I would. Extremely disappointing from the perspective of an IRL pilot for whom a game like this should be a slam dunk.",BOTH,,,,,,,,
-38,Uses generative AI for some assets. Do not buy! Do not support the use of AI!,GENAI,,,,,,,,
-39,"It looks good, stylized, but uses AI voices. Ethical concerns of using AI aside, it makes the voice acting extremely flat. I'd have preferred just text or amateurish voices than flat AI.",GENAI,,,,,,,,
-40,"real disappointed I bought the ""deluxe"" version just to find not all dlcs are included. and real egregious anticheat is required for online play",QUALITY,,,,,,,,
+My big problem though? AI voices. The devs couldn't be bothered to get ACTUAL PEOPLE to voice their game. I feel disgusted knowing I put almost ten hours into this game. If I could undo all of that and never have given these people my money, I would. Extremely disappointing from the perspective of an IRL pilot for whom a game like this should be a slam dunk.",BOTH,,,
+38,Uses generative AI for some assets. Do not buy! Do not support the use of AI!,GENAI,,,
+39,"It looks good, stylized, but uses AI voices. Ethical concerns of using AI aside, it makes the voice acting extremely flat. I'd have preferred just text or amateurish voices than flat AI.",GENAI,,,
+40,"real disappointed I bought the ""deluxe"" version just to find not all dlcs are included. and real egregious anticheat is required for online play",QUALITY,,,
 41,"Game is still majorly lacking in content but i really like the idea
 
 with more loot on the maps and more locations to visit this game could be really good but its still too barebones at the moment so i cant recommend it for a good few major content releases
 
-ai also needs major improvements as they shoot through bushes and just run and swarm when you make noise which just makes combat boring, repetitive and annoying",QUALITY,,,,,,,,
+ai also needs major improvements as they shoot through bushes and just run and swarm when you make noise which just makes combat boring, repetitive and annoying",QUALITY,,,
 42,"With every new sniper elite game, I have always been impressed by how they improve the base game with each iteration. With Sniper Elite 5, Rebellion created something I absolutely loved, creating more of a sandbox open world, giving the player options on how to complete an objective. 
 
 Starting Sniper Elite: Resistance, I was excited to see what improvement Rebellion had made this time. But to my disappointment, it's a worse version of Sniper Elite 5. For survival, they even reused maps from that game...
 
 There are a lot of walls you can't leap over, invisible walls, buggy animations. The story (while never being a strong point) is even less interesting. Many of the maps feel unoriginal and are not rememberable. I still think back on some of the legendary Sniper Elite 5 maps very fondly.
 
-In conclusion, I can only recommend this game if you have already played Sniper Elite 5 and want more. Otherwise, I can't recommend it.",QUALITY,,,,,,,,
-43,"Returning player and these new updates has made the game ridiculously com0plicated and annoying.  If there are alot of new things which require materials, maybe make it possible to buy the materials.  Also make it easier to find the correct materials tyo build pre-fab homes.  ALso, when it says tyou need to construct furniture in a home, maybe menjtion that you need to have it in your own investory already, or make it possible to buy onsite or have it there waiting already.  The new features could be good, but I am spending most of my time now trying to figure out what I do and dont have available, which takes the amount of contracts I can do from 3-4, to 1.  Gave it a real try, but this will be uninstalled and never installed again.  Shame really, it had potential...",QUALITY,,,,,,,,
+In conclusion, I can only recommend this game if you have already played Sniper Elite 5 and want more. Otherwise, I can't recommend it.",QUALITY,,,
+43,"Returning player and these new updates has made the game ridiculously com0plicated and annoying.  If there are alot of new things which require materials, maybe make it possible to buy the materials.  Also make it easier to find the correct materials tyo build pre-fab homes.  ALso, when it says tyou need to construct furniture in a home, maybe menjtion that you need to have it in your own investory already, or make it possible to buy onsite or have it there waiting already.  The new features could be good, but I am spending most of my time now trying to figure out what I do and dont have available, which takes the amount of contracts I can do from 3-4, to 1.  Gave it a real try, but this will be uninstalled and never installed again.  Shame really, it had potential...",QUALITY,,,
 44,"I adored the aesthetics and music, but man, the gameplay felt really weak and the writing didn't land for me. I get the message and agree with it, but the game doesn't feel like it's saying or doing anything profound with it. 
 
 Game-play is, unfortunately, the generic clicker/idle experience: Number go up, buy resources to make number bigger, rinse and repeat. There are no gameplay elements that Faceminer brings to the table that are unique. Sure, the UI and the reasons for the numbers getting bigger are interesting, but they don't really lend to the overall game experience at all. I wish there was more to do with the components and upgrades you bought as some of them provide a new application on the desktop, but this is mainly for viewing data at a glance. If there was some kind of interactivity that required the player's attention within those screens we had to balance with the other elements in the game it would have made for a richer gameplay experience.
 
-The moral at the end of the story is ""[i]AI is bad for us and the environment. These corporations are doing everything to enable AI and, inevitably, doom us.[/i]"" and while I do agree with most of this (to a degree), it's just a reverberation of what I consistently see on Reddit, BlueSky, etc. I'm left wishing there was more substance to the message here. I was hoping to get more out of this experience, but I finished it feeling disappointed.",QUALITY,,,,,,,,
+The moral at the end of the story is ""[i]AI is bad for us and the environment. These corporations are doing everything to enable AI and, inevitably, doom us.[/i]"" and while I do agree with most of this (to a degree), it's just a reverberation of what I consistently see on Reddit, BlueSky, etc. I'm left wishing there was more substance to the message here. I was hoping to get more out of this experience, but I finished it feeling disappointed.",QUALITY,,,
 45,"Very lazy low effort game. Worst in the series.
 Ai is absolutely terrible. Enemies instantly forget you existed, if you are downed.
 Recycled survival maps from 5.
@@ -228,45 +228,45 @@ Story has never been the point of these games, but this had some really dumb mom
 Why does the main character look like a homeless bum?
 Character and enemies get stuck on stairs constantly.
 No challenges to unlock anything for guns like in 4 or 5.
-If you just really wanna shoot somebody from a mile away, wait for a HUGE sale.",QUALITY,,,,,,,,
+If you just really wanna shoot somebody from a mile away, wait for a HUGE sale.",QUALITY,,,
 46,"I had initially played this before the disclosure was added to the game. Upon telling someone about the game, I have found they have added the genAI disclosure.
 
-I am disgusted that this disclosure, a ToS requirement, was skipped for months.",GENAI,,,,,,,,
+I am disgusted that this disclosure, a ToS requirement, was skipped for months.",GENAI,,,
 47,"The absolute most basic idle/incremental mechanics - ones that were already outdated in the genre a decade ago. There is no real feeling of progression because, after unlocking automation, nothing game changing is introduced anymore. You just keep buying new hardware to keep the fields green, then buy software until the fields turn red.
 
 The themes are nice, I guess. There's more to them than in most incremental games, but they're still pretty bare-bones and stop being interesting after reading a few emails.
 
-The visual theme is great; no notes.",QUALITY,,,,,,,,
-48,"it just keeps getting worse, the game started out as an absolute pig with how laggy and un optimized it was, it got better for a bit and now its just fell off a cliff, the games basically unplayable with mods where previous games id have saves with 100s of mods with no issues",QUALITY,,,,,,,,
+The visual theme is great; no notes.",QUALITY,,,
+48,"it just keeps getting worse, the game started out as an absolute pig with how laggy and un optimized it was, it got better for a bit and now its just fell off a cliff, the games basically unplayable with mods where previous games id have saves with 100s of mods with no issues",QUALITY,,,
 49,"3/10 constant clicking to the point where your fingers will hurt
 - ai shart
 - feels like its got some ai coding as well. tons of bugs
 - game gave me a steam achievement for doing a thing i didn't do and wasnt even close to unlocking. looks like its is locked behind paid DLC that i dont own. other people getting the same thing
-- object loading in buggy. purchased a lamp and its missing textures sometimes",GENAI,,,,,,,,
-50,I don't want to love it - I want to enjoy it. But I don't.,QUALITY,,,,,,,,
-51,"no, not until ai is replaced and the game better optimized, I cannot recommend  the game.",GENAI,,,,,,,,
+- object loading in buggy. purchased a lamp and its missing textures sometimes",GENAI,,,
+50,I don't want to love it - I want to enjoy it. But I don't.,OTHER,,,
+51,"no, not until ai is replaced and the game better optimized, I cannot recommend  the game.",GENAI,,,
 52,"Gameplay loop gets a little repetitive after an hour or so, and you can get 100% of achievements and unlocks in about 2-3 days of gameplay. 
 
-Also, they used AI art in the banner. Unfortunately I didn't notice until I'd already played too much to refund it. Wouldn't have bothered buying it in the first place if I knew. Can't in good conscience recommend it now.",BOTH,,,,,,,,
-53,"Obviously the AI elements in this are ugly beyond belief and are an insult to art in all regards. But the gameplay of this is also really bad. After playing for more then 10 minutes, especially on the later levels, it just completely cramps my hand and gets ridiculously repetitive and stale. Don't support this game!",BOTH,,,,,,,,
-54,is not good it stucs always,QUALITY,,,,,,,,
-55,is every game releasing update using AI slop or what?  how do you go from a smooth play to freeze and crashes?,GENAI,,,,,,,,
-56,"OMG, if an Ecoli can make game, it will be better than this game.",QUALITY,,,,,,,,
-57,this game fucking sucks DON'T 100% this with ur friend u both will have a shitty fucking time it is so broken,QUALITY,,,,,,,,
+Also, they used AI art in the banner. Unfortunately I didn't notice until I'd already played too much to refund it. Wouldn't have bothered buying it in the first place if I knew. Can't in good conscience recommend it now.",BOTH,,,
+53,"Obviously the AI elements in this are ugly beyond belief and are an insult to art in all regards. But the gameplay of this is also really bad. After playing for more then 10 minutes, especially on the later levels, it just completely cramps my hand and gets ridiculously repetitive and stale. Don't support this game!",BOTH,,,
+54,is not good it stucs always,QUALITY,,,
+55,is every game releasing update using AI slop or what?  how do you go from a smooth play to freeze and crashes?,GENAI,,,
+56,"OMG, if an Ecoli can make game, it will be better than this game.",OTHER,,,
+57,this game fucking sucks DON'T 100% this with ur friend u both will have a shitty fucking time it is so broken,QUALITY,,,
 58,"Just Meh. 
 Killing Floor 1 - Chef kiss - Awesome Soundtrack
 Killing Floor 2 - Took a while but double chef kiss. Awesome Soundtrack
-Killing Floor 3 - There is no magic. Maybe Ive grown tired of the genre. Then play Killing Floor 2 and I enjoy it.",QUALITY,,,,,,,,
+Killing Floor 3 - There is no magic. Maybe Ive grown tired of the genre. Then play Killing Floor 2 and I enjoy it.",QUALITY,,,
 59,"NOT the Porco Rosso adventure I was looking for.....
 
-AI used, and poorly used at that. Repetitive, soulless, slop.",GENAI,,,,,,,,
-60,"This game is very fun to play, but the game uses way too much AI generated “art”. Almost all the logos and art for this game is AI generated, and I wouldn’t be surprised if the dialogue at the start of the game was too, since it sounds similar to AI writing. Until the AI slop is replaced with someone’s actual artwork, I won’t be touching this game again.",GENAI,,,,,,,,
+AI used, and poorly used at that. Repetitive, soulless, slop.",GENAI,,,
+60,"This game is very fun to play, but the game uses way too much AI generated “art”. Almost all the logos and art for this game is AI generated, and I wouldn’t be surprised if the dialogue at the start of the game was too, since it sounds similar to AI writing. Until the AI slop is replaced with someone’s actual artwork, I won’t be touching this game again.",GENAI,,,
 61,"NO, it's not a bad game, but it's too heavy for my GPU, I'm overloaded.
 
 And I find this game boring.
 
-I do not recommend this game.",QUALITY,,,,,,,,
-62,uses ai. my fault for not seeing that requirement before getting the game. thank god i only got it for a dollar. support real artists,GENAI,,,,,,,,
+I do not recommend this game.",QUALITY,,,
+62,uses ai. my fault for not seeing that requirement before getting the game. thank god i only got it for a dollar. support real artists,GENAI,,,
 63,"When I saw this game, it was love at first sight but now I'm split.
 
 [b]PROS[/b]
@@ -282,7 +282,7 @@ I do not recommend this game.",QUALITY,,,,,,,,
 [*][b]No manual save nor frequent autosave ![/b]
 [/list]
 No manual save would not be a huge problem had a frequent autosave been implemented. Saves only occur when you reach specific levels. I read that there was a way to create manual saves later in the game but it seems it costs money and its costs increase with every use. As a consequence, progressing in the game is in itself a source of stress as you never know if you will reach another save and may have to continue playing to reach it even if you want to stop because you don't want to lose your progress.
-If you can accept that ""risk"", though, the game is interesting.",QUALITY,,,,,,,,
+If you can accept that ""risk"", though, the game is interesting.",QUALITY,,,
 64,"I had a whole elegant post about why I can't recommend this game, but people don't come here to read essays.
 So simply put:
 The AI Voices are not even well made and are an assault to my ears.
@@ -292,7 +292,7 @@ The tycoon aspect or running a bar/brewery feels inconsequential.
 The writing is... there. It serves it's purpose but don't expect anything impressive.
 
 If AI weren't involved, this would be a 6/10, nothing ground-breaking, nothing too offensive, just okay.
-With the AI, it takes a big hit. I couldn't make it past 2hrs listening to those awful voices.",BOTH,,,,,,,,
+With the AI, it takes a big hit. I couldn't make it past 2hrs listening to those awful voices.",BOTH,,,
 65,"Bought this game when its name still made sense and the devs were still updating it. We're now well past the 6 month ""early access"" window, the game can still be beat in about 4 hours once you get past the clunky controls and there's just not a lot to do as the business management sim is fairly mindless with no option to increase difficulty nor any need to buy more than a handful of movies
 
 Maybe I would have recommended it in November but not even a whisper of updates since October and I see HOGO Games has moved onto their next ""X Simulator <current year>"" game rather than finishing this one
@@ -303,12 +303,12 @@ Edit: True to my word, I played again after the 2026-Aug update. The drive-thru 
 
 Ultimately, I'd like to see the game lean more aggressively into its management sim side rather than just being another clunky physics engine where you stock shelves. This means much better UI on the menus (sorting and filtering options at least), more variable cost expenses and both the ability and a reason to sell/fire unprofitable purchases/employees
 
-Side-note: I'm 95% sure the online ticketing feature doesn't do anything besides take a huge chunk of your capital",QUALITY,,,,,,,,
-66,"I played 45 hours to know I understood everything. This game has a very simple rotation of buy/fix/sell/upgrade, this would be fine if performance was not horrible. With its limited mechanics and depth its not even a mile wide and and inch deep, its a puddle. 90% of my time was mindlessly washing or doing body work on cars. It wasn't relaxing because performance was so bad. I don't often give bad reviews but this deserved it . Even if you progress and make your shop look better the surrounding town looks like a country side ghetto still. You cannot move or use your money for anything interesting. The performance drop in town or at the dealership has no excuse for a fully released game. I am running a 6800 xt 16 gig, 5600x and 32 gigs of ram, I changed every setting nothing helped. The basic of any expectation is that the games performance is bearable, you failed on this step, it made the rest of the game unenjoyable.",QUALITY,,,,,,,,
-67,"Completely infested with AI ""art"".",GENAI,,,,,,,,
+Side-note: I'm 95% sure the online ticketing feature doesn't do anything besides take a huge chunk of your capital",QUALITY,,,
+66,"I played 45 hours to know I understood everything. This game has a very simple rotation of buy/fix/sell/upgrade, this would be fine if performance was not horrible. With its limited mechanics and depth its not even a mile wide and and inch deep, its a puddle. 90% of my time was mindlessly washing or doing body work on cars. It wasn't relaxing because performance was so bad. I don't often give bad reviews but this deserved it . Even if you progress and make your shop look better the surrounding town looks like a country side ghetto still. You cannot move or use your money for anything interesting. The performance drop in town or at the dealership has no excuse for a fully released game. I am running a 6800 xt 16 gig, 5600x and 32 gigs of ram, I changed every setting nothing helped. The basic of any expectation is that the games performance is bearable, you failed on this step, it made the rest of the game unenjoyable.",QUALITY,,,
+67,"Completely infested with AI ""art"".",GENAI,,,
 68,"Good graphics and it's a decent foundation of a game, but the AI is just atrociously bad, there is no tension or immersion when the AI act like literal robots. The human AI will spawn endlessly and their only logic is to rush directly at you while shooting as quickly as possible. Very boring.
 
-Instead of playing this, play ""The Path Into the Abyss"". It has a free demo which is basically a F2P EA Game and it's much better than this game.",QUALITY,,,,,,,,
+Instead of playing this, play ""The Path Into the Abyss"". It has a free demo which is basically a F2P EA Game and it's much better than this game.",QUALITY,,,
 69,"I really want to enjoy this game. I really do. The core concept is there and is working. It's all the other stuff on the side that isn't.
 
 Fully upgraded ware house is small. with the amount of different shelves and stuff you will be bringing back, it get full real quick.
@@ -323,9 +323,9 @@ They are supposedly about to release a major update but with how the previous up
 I enjoyed ship graveyard simulator 2 which the same devs made, but over time, the DLCs they released were more sloppy and buggy. And you can get a feeling of it from this too.
 
 So i wouldn't recommend this game. 
-4,5/10",QUALITY,,,,,,,,
-70,"Fell for aestetics, expected some digital horror/mystery/triller vibes, got an emotionally charged lecture about climate activism instead. Unfortunately, this is doomslop.",OTHER,Y,,,,,,,
-71,devs...,OTHER,,,,,,,,
+4,5/10",QUALITY,,,
+70,"Fell for aestetics, expected some digital horror/mystery/triller vibes, got an emotionally charged lecture about climate activism instead. Unfortunately, this is doomslop.",QUALITY,Y,,
+71,devs...,OTHER,,,
 72,"I really cannot recommend this game. Yes its an Early Access title, still doesn't give it a free pass however.
 
 It runs like hell, performance is maneagable (as much as it is, considering its UE5) and only runs decently if you turn down the settings to anything below Medium. It looks good, yeah but that's the only qualifying factor it has. You can slog through a long tutorial session that's pointlessly 'voice-acted' by a generic Elevenlabs AI script, or you can go on about your way and not do them. Honestly, not doing the tutorial is preferrable. Its got really good grounds for a nice game, but only in the future because right now, it should be avoided.
@@ -338,7 +338,7 @@ Need voice actors? Go into a closet or an enclosed space, grab your phone, recor
 
 Need art? Plenty of cheap but good artists exist in the world. There are thousands of Telegram channels, Discord servers, & Twitter feeds that have artist hubs where you can hire background artists to make simple but extravagant pieces of work for under 100€. Which shouldn't even be an issue, with the price tag that's been set.
 
-The game needs work, a lot of work before its even acceptable to list it at the current price. I can understand listing it with the price if you are in need of funding, but then state that fact in the main page. Keep the game in the oven for a long time before giving it the full price.",BOTH,,,,,,,,
+The game needs work, a lot of work before its even acceptable to list it at the current price. I can understand listing it with the price if you are in need of funding, but then state that fact in the main page. Keep the game in the oven for a long time before giving it the full price.",BOTH,,,
 73,"Let's get this straight: this is not Sniper Elite 6, and it barely feels like a proper DLC to Sniper Elite 5.
 
 I have played every Sniper Elite game, and the modern ones in co-op with a friend. Resistance feels like someone took the Sniper Elite 5 engine exactly as it was, kept all its old bugs, and gave it to a much less experienced gameplay and level design team. That is probably why it is not called Sniper Elite 6.
@@ -387,7 +387,7 @@ The two things I still appreciate are that the campaign can be played entirely i
 
 I am genuinely disappointed because Sniper Elite is a great series and the basic engine is still very good. But Resistance removes much of what made the previous games interesting: tension, stealth, preparation, scarcity, meaningful loadouts, intelligent enemy reactions and rewarding sniping.
 
-I cannot recommend it, even on sale. I would rather wait and hope Rebellion comes back with a proper Sniper Elite 6.",QUALITY,,,,,,,,
+I cannot recommend it, even on sale. I would rather wait and hope Rebellion comes back with a proper Sniper Elite 6.",QUALITY,,,
 74,"I love the concept of the game and ive played for 32 hours. I could really look past a lot of the bugs that we had in the past. Today after months we tried playing again and the bugs have just become way too much. It was quite literally unplayable.
 
 Previously we had little visual bugs, audio bugs. But today my friend couldnt see a table, for me the dirty dishes tub got stuck under the sink without any way to get it out apart from buying a new table. etc etc. 
@@ -567,7 +567,7 @@ Not Recommended - ✘
 ☐ Yes (+5)
 
 
-[h2]Generate your review at https://playeropinion.com[/h2]",QUALITY,,,,,,,,
+[h2]Generate your review at https://playeropinion.com[/h2]",QUALITY,,,
 75,"Unfortunately, this game is extremely repetitive. It’s a classic wash, rinse, repeat experience: you keep doing the exact same tasks over and over, with almost no meaningful changes or evolution in gameplay. After just a few hours, you’ve basically seen everything the game has to offer.
 
 The content is very shallow. The real estate mechanics are overly simplistic and lack any real depth or strategic decision-making. Nothing you do feels impactful in the long run — progression is linear, predictable, and boring.
@@ -592,8 +592,8 @@ What’s even more disappointing is that all games from this same developer seem
 
 Instead of fixing bugs, adding depth, or meaningfully expanding this game, the developers seem more interested in releasing a Real Estate Simulator 2 and charging players again, leaving this title feeling unfinished and neglected.
 
-In its current state, the game feels more like a prototype than a complete simulator. The idea has potential, but the execution is weak and does not justify the price.",QUALITY,,,,,,,,
-76,"I thought this game might be ok, i was wrong, save your money and buy 7 days to die instead.",QUALITY,,,,,,,,
+In its current state, the game feels more like a prototype than a complete simulator. The idea has potential, but the execution is weak and does not justify the price.",QUALITY,,,
+76,"I thought this game might be ok, i was wrong, save your money and buy 7 days to die instead.",OTHER,,,
 77,"I have a decent amount of hours... for a game that deserves none... stop defending garbage corpo greed... 
 
 The weapons, feel like trash. clearly ones are better regardless of class..
@@ -624,48 +624,48 @@ here is the problem. 1 fleshpound, if you arent wearing armor. insta gibs you. M
 
 They balanced it by making you slower, zeds deal EVEN MORE DMG and is over all not fun. New class ability is just sharpshooters ability with dual pistols instead... like what the actual fuck.
 
-Also why the fuck is our healing needle different use times on different specialists? I dont fucking care about spinning the healing item or throwing it from one hand to the other. FUCKING HEAL ME HOLY SHIT DUDE.",QUALITY,,,,,,,,
-78,"Gameplay seems fine, but they used AI for the voice acting instead of either hiring actual voice actors or just going without voice acting. Either of those options would've been preferential",GENAI,,,,,,,,
-79,"I bought this game based on my experience with the demo, which had no AI voices in it. The released game does have AI voices in it, which I only found out once I started working my way through flight games in my backlog.",GENAI,,,,,,,,
+Also why the fuck is our healing needle different use times on different specialists? I dont fucking care about spinning the healing item or throwing it from one hand to the other. FUCKING HEAL ME HOLY SHIT DUDE.",QUALITY,,,
+78,"Gameplay seems fine, but they used AI for the voice acting instead of either hiring actual voice actors or just going without voice acting. Either of those options would've been preferential",GENAI,,,
+79,"I bought this game based on my experience with the demo, which had no AI voices in it. The released game does have AI voices in it, which I only found out once I started working my way through flight games in my backlog.",GENAI,,,
 80,"Sounds important (but isn't), has nostalgia. Yeah that's it.
 
 The game is fun for the first hour as the Win95 esthetic very much drags you in if you have nostalgia for that late-mid-90's technology theme. The visuals and music are incredibly thematic and build a fun atmosphere but gameplay drags it down really quick. The initial 15 minutes or so is a logic game when you need to click on pictures. Then, it's an upgrade simulator. And not even a complex, robust one with lots of strategy. Once you play it for the first 30-60 minutes you realize oh f*** that's the entire game isn't it?
  
 To add insult to injury, the story is honestly painfully predictable considering the premise of the game i spelled out instantly, even advertised. It's incredibly simplistic ""AI datacenters bad, corpo bad, world go boom"" commentary  which is a valid message sure but you're not experiencing it in any meaningful way here. It's just generic videos and some ok e-mail messages of the environment going more and more to heck the more you play. Not even a significant number of those. And gameplay isn't really fun as I mentioned. I play a lot of games which are rather repetitive in nature but this here feels like a browser based Flash game I'd play years ago. And not a very good one I'm afraid. Maybe it's a low key attention span test in the sense if you can't play for long then you're ""brainrotten"". Yeah thanks I'd rather read a book or Wikipedia at this point. One more annoyance to the collection is that in order to manual save you have to pay with in-game money that you also use to upgrade everything it's a ""unique"" feature but just a nuisance. Auto-saves take place not more than 30 minutes though at least based on my progress so it's not a complete disaster.
 
-I do want to again point out the esthetics of the game are incredibly thematic and if you love that mid-90's and like upgrade simulator-style games then buy this one at least 50% discount to get those vibes. Other than that, due to it's gameplay and ""story"", even at its price point, skippable.",QUALITY,,,,,,,,
-81,ITS ASS!!!!,QUALITY,,,,,,,,
+I do want to again point out the esthetics of the game are incredibly thematic and if you love that mid-90's and like upgrade simulator-style games then buy this one at least 50% discount to get those vibes. Other than that, due to it's gameplay and ""story"", even at its price point, skippable.",QUALITY,,,
+81,ITS ASS!!!!,OTHER,,,
 82,"The game is bright and colourful, overall it's a fun experience, perhaps a little repetitive, but I would recommend.
 But I can't look past the use of AI. During development using AI is a great way of getting the message across. Placeholder portraits, VA, etc. while building the game and raising funds. However the game has been out long enough now and it's still there. Paying artists for portraits shouldn't be much for just a few busts of characters. If you can't afford VAs then there's nothing wrong with just going back to text.
 
-I'm sorry if it seems pedantic to base my negative review solely on the use of AI, however those are my opinions, and this is the place I choose to voice them.",GENAI,,,,,,,,
-83,Buggy terrible jank. I haven't seen AI so lazily coded. Insane that this isn't a high school kids project released for free.,QUALITY,Y,,pretty sure they're talking about enemy/NPC AI,,,,,
-84,(Previously) unannounced gen AI voices rather than hiring VA's released prior to the valve requirement to state the usage of AI. Real shame since I was hoping this would be a good game to call back to ACTUAL ART like Porco Rosso,GENAI,,,,,,,,
-85,don't buy the AI are a bunch of cheaters their is no reason my characters whiff 6 of 8 attacks just because they are new pros,QUALITY,,,,,,,,
-86,"Thought this game looked really fun and cute, but I don't think I can recommend it. It's a good vibe and a nice aesthetic, but it was two hours of the exact same gameplay loop and I never felt any push towards ""just one more"". Glad I got it half off at least.",QUALITY,,,,,,,,
+I'm sorry if it seems pedantic to base my negative review solely on the use of AI, however those are my opinions, and this is the place I choose to voice them.",GENAI,,,
+83,Buggy terrible jank. I haven't seen AI so lazily coded. Insane that this isn't a high school kids project released for free.,QUALITY,Y,,pretty sure they're talking about enemy/NPC AI
+84,(Previously) unannounced gen AI voices rather than hiring VA's released prior to the valve requirement to state the usage of AI. Real shame since I was hoping this would be a good game to call back to ACTUAL ART like Porco Rosso,GENAI,,,
+85,don't buy the AI are a bunch of cheaters their is no reason my characters whiff 6 of 8 attacks just because they are new pros,QUALITY,,,
+86,"Thought this game looked really fun and cute, but I don't think I can recommend it. It's a good vibe and a nice aesthetic, but it was two hours of the exact same gameplay loop and I never felt any push towards ""just one more"". Glad I got it half off at least.",QUALITY,,,
 87,"I know it's a short review time, but I gotta punch my gripe in after the first line by Franci. PEOPLE EXIST. Hire Voice Actors instead of using GenAI. I'm fine if it's an LLM or similar, because those are tools where data still has to get inputted in some capacity, meaning you can't just spit in a sentence and get a 'solution'. GenAI on the other hand are just... downright thievery.
 
-If you went back in and changed out the lines with genuine actors - Hell, just take the damn voices out, leave it as a text-only - I bet you half the gripes people are posting about would disappear. I know for one that there is a good game under that moral quandary of AI, and honestly it seems like a lot of people do too.",GENAI,,,,,,,,
+If you went back in and changed out the lines with genuine actors - Hell, just take the damn voices out, leave it as a text-only - I bet you half the gripes people are posting about would disappear. I know for one that there is a good game under that moral quandary of AI, and honestly it seems like a lot of people do too.",GENAI,,,
 88,"I read the description and expected some parts to be made using AI, but nope, almost all aspects of the game are made with AI. It's similar to consuming AI slop videos, only worse, because you look at the same level on loop in a game like this.
 
-The game scratches that cooking-game itch pretty well. If you can consume this amount of low-effort AI work without feeling icky about it, go for it. This just wasn't for me; I couldn't take it anymore.",GENAI,,,,,,,,
-89,"Fighting in this game is so ass, feels so clanky and unpolished does not make fun, ai just stand still and lasers you lowkey after 5sec. big potential but right now very unpolished and not fun.",QUALITY,,,,,,,,
-90,Almost a good game. This ends up narrowing down to Upgrade hardwares then upgrade softwares when you have enough money. Like an idle game with extra steps. It's pretty annoying this flow.,QUALITY,,,,,,,,
+The game scratches that cooking-game itch pretty well. If you can consume this amount of low-effort AI work without feeling icky about it, go for it. This just wasn't for me; I couldn't take it anymore.",GENAI,,,
+89,"Fighting in this game is so ass, feels so clanky and unpolished does not make fun, ai just stand still and lasers you lowkey after 5sec. big potential but right now very unpolished and not fun.",QUALITY,,,
+90,Almost a good game. This ends up narrowing down to Upgrade hardwares then upgrade softwares when you have enough money. Like an idle game with extra steps. It's pretty annoying this flow.,QUALITY,,,
 91,"Duck Detective: The Secret Salami is supposedly an investigation-style puzzle game in the same vein as Return of the Obra Dinn or The Case of the Golden Idol. I love this genre, but unfortunately had a lousy time with Duck Detective. A good deduction puzzler gives you 2+ clues for every piece of info you're meant to logically deduce, and makes the truth logically overdetermined and watertight such that no other answer is plausible or possible. Here you get more like two thirds of a clue per piece of info, and are expected to solve the puzzles via leaps of logic or outright guesswork. (I even checked the walkthrough to see if I missed any vital clues, but I rarely did; the deductions really were meant to be that obtuse and uncompelling.) Needless to say, that made for a truly terrible gameplay experience.
 
-Not at all recommended.",QUALITY,,,,,,,,
+Not at all recommended.",QUALITY,,,
 92,"[h1]AI Slop Simulator 2025[/h1] 
 
 Not even worth the $5 I paid for it. It's just an AI slop cash grab. Looks and plays like it was made without any soul. It's really ugly, as are all the games made by this dev. Will probably be abandoned once sales dry up.
 
-Dev hasn't updated any of their games in months. They went from working on one games to working on a whole bunch. Just look at Rockstar Simulator. The game is trash, an unfinished buggy mess that hasn't had any real patches since the 1.0 release over a year ago. This game is even worse.",BOTH,,,,,,,,
+Dev hasn't updated any of their games in months. They went from working on one games to working on a whole bunch. Just look at Rockstar Simulator. The game is trash, an unfinished buggy mess that hasn't had any real patches since the 1.0 release over a year ago. This game is even worse.",BOTH,,,
 93,"I have played Farm Sin since FS15, but after the latest fs25 update, they game becomes more and more unusable.
-Ai that is erratic and mostly ignores settings. equipment that is buggy . It seems the put all their attention on graphics and destroyed game play in the prosses . I am truly sad to see the changes. perhaps they will fix it, but I am not holding my breath",QUALITY,,,,,,,,
-94,The game is still empty and dead. If you want something good maybe buy the first one.,QUALITY,,,,,,,,
-95,"Interesting concept, really. I like the voice and how everything come out. The only downsize is the fact that they use AI [spoiler] for one item that only used once....really...we could have someone made that instead of using AI ya know? [/spoiler] ....and I did add it to my wishlist before reading disclaimed, so that's on me.",GENAI,,,,,,,,
+Ai that is erratic and mostly ignores settings. equipment that is buggy . It seems the put all their attention on graphics and destroyed game play in the prosses . I am truly sad to see the changes. perhaps they will fix it, but I am not holding my breath",QUALITY,,,
+94,The game is still empty and dead. If you want something good maybe buy the first one.,QUALITY,,,
+95,"Interesting concept, really. I like the voice and how everything come out. The only downsize is the fact that they use AI [spoiler] for one item that only used once....really...we could have someone made that instead of using AI ya know? [/spoiler] ....and I did add it to my wishlist before reading disclaimed, so that's on me.",GENAI,,,
 96,"for the money a good little puzzle game which will entertain you 1 or 2 nights.
 
-but at this point it's abandoned and no new updates will come",QUALITY,,,,,,,,
+but at this point it's abandoned and no new updates will come",QUALITY,,,
 97,"I got this on a -70% sale, keep this in mind.
 
 I hadn't played a Sniper Elite game since two or three if I remember correctly, and this is a fairly formulaic release. The arcade-y sniping mechanics are still quite visceral and fun to witness, the third person combat is uninspired and quite poor honestly, the stealth mechanics aren't anything interesting, you crouch around bushes and shoot lamps out and walk up behind people and most of the levels are about navigating around the patrol routes. The AI is nothing impressive. There are vehicles and such which can be an interesting encounter and add life to levels.
@@ -674,9 +674,9 @@ The progression is locked primarily to finding a single collectible per level, w
 
 The survival mode can be quite intense, the invasion mode is definitely a highlight (spawning in others' campaigns to try hunt them down) although it's very clearly poorly thought through with how common things come down to camping, or the existence of players who empty out levels of AI and set traps.
 
-Overall, I wouldn't recommend this purely because of the price outside of sale. It's fairly formulaic, you don't actually do a lot of sniping and the campaign primarily consists of crouching around and navigating through a very very generic stealth level with all the tools you'd normally expect (so generic I won't even name them as you can expect decoys etc.) I'll definitely play it to completion because I have low standards.",QUALITY,,,,,,,,
-98,"enjoyed this game prior to it going full-tilt on AI, sadly won't be returning to it and it's too late for me to request a refund",GENAI,Y,,Unsure what AI they're referring to,,,,,
-99,Imagine facing a cheater who’s running a perfect aimbot with 100% awareness and god-tier perception. That’s the enemy AI in this game. Their most recent update falsely claims to have addressed these issues.,QUALITY,,,,,,,,
+Overall, I wouldn't recommend this purely because of the price outside of sale. It's fairly formulaic, you don't actually do a lot of sniping and the campaign primarily consists of crouching around and navigating through a very very generic stealth level with all the tools you'd normally expect (so generic I won't even name them as you can expect decoys etc.) I'll definitely play it to completion because I have low standards.",QUALITY,,,
+98,"enjoyed this game prior to it going full-tilt on AI, sadly won't be returning to it and it's too late for me to request a refund",GENAI,Y,,Unsure what AI they're referring to
+99,Imagine facing a cheater who’s running a perfect aimbot with 100% awareness and god-tier perception. That’s the enemy AI in this game. Their most recent update falsely claims to have addressed these issues.,QUALITY,,,
 100,"Title: An Analysis of Economic Disconnect in Deconstruction Simulator
 Overview
 Deconstruction Simulator provides a loop centered on dismantling structures, but it currently faces significant challenges regarding economic balance and progression incentives. While the mechanics are straightforward, the relationship between effort and reward feels disjointed. 
@@ -691,4 +691,4 @@ The progression systems in Deconstruction Simulator do not currently offer enoug
 Rating: Not Recommended
 
 Note: This is an AI-generated review for what appears to be an AI-generated game.
-Ok, so I did have about 10$ worth of fun with this game, so if you like that kind of thing, it might apeal to you.  But if you are looking for a game that is going to hold your interest at all, look elsewhere.",BOTH,,,,,,,,
+Ok, so I did have about 10$ worth of fun with this game, so if you like that kind of thing, it might apeal to you.  But if you are looking for a game that is going to hold your interest at all, look elsewhere.",BOTH,,,
