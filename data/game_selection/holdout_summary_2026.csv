@@ -1,0 +1,31 @@
+appid,name,group,rating_tier,genre,base_price_usd,release,total_reviews_alltime_x,pct_positive_alltime_x,negative_in_window_x,positive_in_window_x,notes,total_reviews_alltime_y,total_negative_alltime,pct_positive_alltime_y,review_score_desc,negative_in_window_y,positive_in_window_y
+1660080,Aloft,control,high,survival,24.99,2025-01,2324.0,85.5,268.0,1719.0,Early access,2329,339,85.4,Very Positive,71,271
+2637990,Duck Detective: The Secret Salami,control,high,detective,9.99,2024-05,5326.0,95.2,219.0,4600.0,,5330,255,95.2,Overwhelmingly Positive,36,476
+2300320,Farming Simulator 25,control,high,sim,29.99,2024-11,21625.0,86.2,2381.0,13251.0,Much larger than most games here,21780,2987,86.3,Very Positive,604,5547
+1043810,Tactical Breach Wizards,control,high,tactics,19.99,2024-08,11216.0,98.0,180.0,9865.0,,11244,227,98.0,Overwhelmingly Positive,47,1151
+2756770,Tavern Manager Simulator,control,high,management sim,14.99,2024-08,1476.0,89.5,124.0,1181.0,,1477,155,89.5,Very Positive,31,142
+2407830,Trash Goblin,control,high,shop sim,19.99,2024-11,1484.0,89.2,112.0,1038.0,Early access Nov 2024; full release May 2025; no AI disclosure (checked),1493,162,89.1,Very Positive,50,293
+1708850,Drug Dealer Simulator 2,control,low,sim,24.99,2024-06,4521.0,49.4,2216.0,2121.0,,4525,2291,49.4,Mixed,75,113
+1430190,Killing Floor 3,control,low,shooter,39.99,2025-07,12642.0,46.7,4789.0,4737.0,,12683,6759,46.7,Mixed,1972,1185
+2930320,Pharmacy Simulator,control,low,sim,9.99,2024-08,89.0,42.7,41.0,37.0,Early access; only ~241 reviews,89,51,42.7,Mixed,10,1
+1136380,Ultimate Fishing Simulator 2,control,low,sim,19.99,2025-05,777.0,63.1,128.0,142.0,Full release 2025 but early access since 2022,777,287,63.1,Mixed,37,36
+2272540,FBC: Firebreak,control,mid,shooter,19.99,2025-06,1725.0,67.7,398.0,995.0,,1726,558,67.7,Mixed,160,173
+1001270,Kebab Chefs! - Restaurant Simulator,control,mid,cooking sim,17.99,2024-01,1898.0,79.7,311.0,1312.0,Early access Jan 2024; full release 2026,1900,386,79.7,Mostly Positive,75,202
+2594540,Motel Manager Simulator,control,mid,management sim,17.99,2024-08,981.0,84.1,132.0,728.0,,985,158,84.0,Very Positive,26,99
+1702010,Sengoku Dynasty,control,mid,survival,29.99,2024-11,3226.0,76.5,450.0,1299.0,Early access since Aug 2023,3234,763,76.4,Mostly Positive,119,334
+2169200,Sniper Elite: Resistance,control,mid,shooter,49.99,2025-01,3368.0,74.9,629.0,1839.0,Higher price than disclosed shooters,3396,852,74.9,Mostly Positive,223,705
+2404880,Car Dealer Simulator,disclosed,high,shop sim,19.99,2025-05,4860.0,87.1,370.0,2701.0,AI used only for some store-page graphics,4870,626,87.1,Very Positive,256,1545
+1278540,Esports Godfather,disclosed,high,management sim,19.99,2024-05,1119.0,94.3,57.0,991.0,,1121,65,94.2,Very Positive,7,67
+2276980,FACEMINER,disclosed,high,sim,7.99,2025-02,1222.0,90.6,85.0,759.0,,1229,115,90.6,Very Positive,30,355
+3036080,Shawarma Legend,disclosed,high,cooking/shop sim,2.99,2024-07,798.0,91.0,56.0,589.0,,801,72,91.0,Very Positive,16,140
+1771980,The Operator,disclosed,high,detective,13.99,2024-07,3849.0,89.6,298.0,2736.0,,3856,401,89.6,Very Positive,103,718
+3484300,DREADZONE,disclosed,low,shooter,24.99,2025-07,555.0,61.6,187.0,277.0,,555,214,61.4,Mixed,27,65
+2738900,REAL ESTATE Simulator - FROM BUM TO MILLIONAIRE,disclosed,low,management sim,12.99,2024-03,99.0,47.5,42.0,43.0,Replaces Hotel Business Simulator (all its reviews were in the pilot dev set),100,53,47.0,Mixed,11,4
+1610520,Serum: Toxic Survival,disclosed,low,survival,24.99,2024-05,174.0,39.1,85.0,65.0,,174,106,39.1,Mostly Negative,21,3
+2687970,TRIBES 3: Rivals,disclosed,low,shooter,19.99,2024-03,1275.0,61.7,464.0,768.0,,1275,488,61.7,Mixed,24,19
+2845090,The Last FARMER,disclosed,low,sim,12.99,2024-10,154.0,52.6,58.0,72.0,Replaces Night Club Simulator (all its reviews were in the pilot dev set),154,73,52.6,Mixed,15,9
+2075100,Chernobylite 2: Exclusion Zone,disclosed,mid,RPG/survival,39.99,2025-03,346.0,68.5,87.0,205.0,,346,109,68.5,Mixed,22,32
+3098070,Cinema Simulator 2025,disclosed,mid,management sim,11.68,2025-02,250.0,76.8,45.0,162.0,,251,58,76.9,Mostly Positive,13,31
+2487150,Deconstruction Simulator,disclosed,mid,sim,19.99,2025-09,761.0,69.9,137.0,400.0,,762,227,70.2,Mostly Positive,90,136
+3494520,Lost Rift,disclosed,mid,survival,24.99,2025-09,784.0,74.9,119.0,419.0,,785,197,74.9,Mostly Positive,78,169
+1636710,The Brew Barons,disclosed,mid,management sim,21.99,2024-03,718.0,73.0,172.0,505.0,,718,194,73.0,Mostly Positive,22,19
