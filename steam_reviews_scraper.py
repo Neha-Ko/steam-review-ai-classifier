@@ -1,5 +1,5 @@
 """
-Steam review scraper for the "Is the AI penalty real?" project.
+Steam review scraper for the project "Do Players Notice the AI, or Just the Quality?"
 
 Uses Steam's official review API, IUserReviewsService/GetAppReviews
 (the old store.steampowered.com/appreviews endpoint was retired by Valve
@@ -8,19 +8,23 @@ on Oct 22, 2026). No API key is needed.
 Setup:
     pip install requests pandas
 
-Usage:
+Usage (run from the repo's top folder):
     # 1. Test on one game
     python steam_reviews_scraper.py --appids 2404880 --max-per-game 20 --out test.csv
 
     # 2. Check review counts for every game (no review text downloaded)
-    python steam_reviews_scraper.py --appid-file games_final.csv --summary
+    python steam_reviews_scraper.py --appid-file data/games_final.csv --summary --out data/game_selection/games_summary.csv
 
-    # 3. Full scrape
-    python steam_reviews_scraper.py --appid-file games_final.csv --max-per-game 100 --out reviews_raw.csv
+    # 3. Main scrape (2024-2025 reviews)
+    python steam_reviews_scraper.py --appid-file data/games_final.csv --max-per-game 500 --out data/reviews/reviews_raw.csv
+
+    # 4. Holdout scrape (2026 reviews; see the notebook's holdout section)
+    python steam_reviews_scraper.py --appid-file data/games_final.csv --start 2026-01-01 --end 2026-11-15 --max-per-game 2000 --out data/reviews/reviews_holdout_raw.csv
 
 By default it pulls English, negative reviews created between 2024-01-01 and
 2025-12-31, newest first, from all purchase types (Steam and non-Steam keys).
-Change these with --review-type, --language, --start and --end.
+Change these with --review-type, --language, --start and --end. Because
+reviews come back newest first, any random sample is drawn in the notebook.
 
 games_final.csv needs an "appid" column. Any other columns (e.g. "group" with
 values "disclosed"/"control") are carried through to the output.
