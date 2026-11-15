@@ -1,0 +1,101 @@
+sheet_id,recommendationid,appid,name,group,stratum
+1,215432428,2276980,FACEMINER,disclosed,claude_flag
+2,234735534,2756770,Tavern Manager Simulator,control,claude_flag
+3,215960813,2169200,Sniper Elite: Resistance,control,random
+4,235659838,1660080,Aloft,control,random
+5,215442874,2300320,Farming Simulator 25,control,keyword_only
+6,216794590,3036080,Shawarma Legend,disclosed,claude_flag
+7,225659038,1610520,Serum: Toxic Survival,disclosed,random
+8,234909169,1136380,Ultimate Fishing Simulator 2,control,random
+9,238137605,2300320,Farming Simulator 25,control,random
+10,216707165,2272540,FBC: Firebreak,control,claude_flag
+11,230195928,1702010,Sengoku Dynasty,control,claude_flag
+12,228587232,2169200,Sniper Elite: Resistance,control,keyword_only
+13,227109847,2272540,FBC: Firebreak,control,keyword_only
+14,224232224,1636710,The Brew Barons,disclosed,claude_flag
+15,233606893,3494520,Lost Rift,disclosed,random
+16,231607482,3484300,DREADZONE,disclosed,keyword_only
+17,221574827,3036080,Shawarma Legend,disclosed,claude_flag
+18,220837132,1771980,The Operator,disclosed,keyword_only
+19,216572200,1278540,Esports Godfather,disclosed,claude_flag
+20,232510309,1636710,The Brew Barons,disclosed,claude_flag
+21,233451360,1430190,Killing Floor 3,control,keyword_only
+22,235154113,2756770,Tavern Manager Simulator,control,claude_flag
+23,233535630,2075100,Chernobylite 2: Exclusion Zone,disclosed,claude_flag
+24,235234577,1660080,Aloft,control,random
+25,232176969,2075100,Chernobylite 2: Exclusion Zone,disclosed,claude_flag
+26,216763314,1660080,Aloft,control,random
+27,225149785,2276980,FACEMINER,disclosed,keyword_only
+28,221512017,1636710,The Brew Barons,disclosed,claude_flag
+29,236296940,2169200,Sniper Elite: Resistance,control,random
+30,222978194,2845090,The Last FARMER,disclosed,random
+31,237671394,1001270,Kebab Chefs! - Restaurant Simulator,control,keyword_only
+32,218934530,1708850,Drug Dealer Simulator 2,control,keyword_only
+33,222859396,3098070,Cinema Simulator 2025,disclosed,claude_flag
+34,240248976,2300320,Farming Simulator 25,control,keyword_only
+35,220110766,2487150,Deconstruction Simulator,disclosed,claude_flag
+36,230130784,2594540,Motel Manager Simulator,control,keyword_only
+37,235492879,1636710,The Brew Barons,disclosed,claude_flag
+38,231493419,2404880,Car Dealer Simulator,disclosed,claude_flag
+39,222467383,1636710,The Brew Barons,disclosed,claude_flag
+40,229737011,2169200,Sniper Elite: Resistance,control,random
+41,221217774,3494520,Lost Rift,disclosed,keyword_only
+42,238856349,2169200,Sniper Elite: Resistance,control,random
+43,234532212,2487150,Deconstruction Simulator,disclosed,random
+44,223948340,2276980,FACEMINER,disclosed,keyword_only
+45,229916862,2169200,Sniper Elite: Resistance,control,keyword_only
+46,224103426,1636710,The Brew Barons,disclosed,claude_flag
+47,229136004,2276980,FACEMINER,disclosed,random
+48,218166276,2300320,Farming Simulator 25,control,random
+49,235563294,2407830,Trash Goblin,control,claude_flag
+50,218637508,1430190,Killing Floor 3,control,random
+51,214941142,1636710,The Brew Barons,disclosed,claude_flag
+52,219956600,2756770,Tavern Manager Simulator,control,claude_flag
+53,222071193,3036080,Shawarma Legend,disclosed,claude_flag
+54,234342086,2487150,Deconstruction Simulator,disclosed,random
+55,221273345,1702010,Sengoku Dynasty,control,claude_flag
+56,239939638,2272540,FBC: Firebreak,control,random
+57,222679923,1001270,Kebab Chefs! - Restaurant Simulator,control,random
+58,217086118,1430190,Killing Floor 3,control,random
+59,233952171,1636710,The Brew Barons,disclosed,claude_flag
+60,232306053,2487150,Deconstruction Simulator,disclosed,claude_flag
+61,222985625,2738900,REAL ESTATE Simulator - FROM BUM TO MILLIONAIRE,disclosed,random
+62,220727723,1771980,The Operator,disclosed,claude_flag
+63,238299150,2276980,FACEMINER,disclosed,keyword_only
+64,216824677,1636710,The Brew Barons,disclosed,claude_flag
+65,220100906,3098070,Cinema Simulator 2025,disclosed,claude_flag
+66,215874717,2404880,Car Dealer Simulator,disclosed,random
+67,216087590,1278540,Esports Godfather,disclosed,claude_flag
+68,217579777,3484300,DREADZONE,disclosed,keyword_only
+69,226476104,2487150,Deconstruction Simulator,disclosed,keyword_only
+70,216976551,2276980,FACEMINER,disclosed,keyword_only
+71,221306183,2687970,TRIBES 3: Rivals,disclosed,random
+72,219706346,3484300,DREADZONE,disclosed,claude_flag
+73,236461811,2169200,Sniper Elite: Resistance,control,keyword_only
+74,215778452,1001270,Kebab Chefs! - Restaurant Simulator,control,keyword_only
+75,217190655,2738900,REAL ESTATE Simulator - FROM BUM TO MILLIONAIRE,disclosed,keyword_only
+76,232757652,2845090,The Last FARMER,disclosed,random
+77,230309329,1430190,Killing Floor 3,control,keyword_only
+78,237961040,1636710,The Brew Barons,disclosed,claude_flag
+79,219119517,1636710,The Brew Barons,disclosed,claude_flag
+80,216115648,2276980,FACEMINER,disclosed,keyword_only
+81,214953816,1708850,Drug Dealer Simulator 2,control,random
+82,217954559,1636710,The Brew Barons,disclosed,claude_flag
+83,231447603,2300320,Farming Simulator 25,control,keyword_only
+84,233637741,1636710,The Brew Barons,disclosed,claude_flag
+85,225162222,1278540,Esports Godfather,disclosed,keyword_only
+86,220148634,2407830,Trash Goblin,control,random
+87,234380350,1636710,The Brew Barons,disclosed,claude_flag
+88,215095973,3036080,Shawarma Legend,disclosed,claude_flag
+89,214929838,3494520,Lost Rift,disclosed,keyword_only
+90,216230918,2276980,FACEMINER,disclosed,random
+91,227114341,2637990,Duck Detective: The Secret Salami,control,random
+92,217662414,3098070,Cinema Simulator 2025,disclosed,claude_flag
+93,232541399,2300320,Farming Simulator 25,control,keyword_only
+94,238450205,1708850,Drug Dealer Simulator 2,control,random
+95,237257378,1771980,The Operator,disclosed,claude_flag
+96,235552303,3036080,Shawarma Legend,disclosed,random
+97,235567956,2169200,Sniper Elite: Resistance,control,keyword_only
+98,235119039,1636710,The Brew Barons,disclosed,claude_flag
+99,219154743,3494520,Lost Rift,disclosed,keyword_only
+100,221291453,2487150,Deconstruction Simulator,disclosed,keyword_only
