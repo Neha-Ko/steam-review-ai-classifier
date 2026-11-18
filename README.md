@@ -12,11 +12,9 @@ Among buyers who leave negative reviews of AI-disclosed Steam games, how often i
 
 - **Quality dominates.** In negative reviews of AI-disclosed games, an average of **88.0 per 100** mention quality problems and **11.4 per 100** mention generative AI (95% CI 4.8–19.2). A review can mention both.
 - **AI complaints are concentrated in a few games.** Three games account for **83 of the 127** AI complaints in the disclosed group, and most disclosed games get almost none. Disclosed games average **10.2 more AI complaints per 100** than controls (95% CI 3.5–18.1), so AI complaints are more common on average, but the gap falls just below our pre-set minimum detectable difference (11.5), so we don't claim a firm group-wide difference.
-- **Claude outperforms keywords.** On the 340-review hand-labeled test set, Claude's precision for AI complaints is **0.934**, vs. **0.593** for the keyword baseline. On a fresh 100-review holdout labeled by both authors, its precision is **0.975** (39 of 40 flags).
+- **Claude outperforms keywords.** On the 340-review hand-labeled test set, Claude's precision for AI complaints is **0.934** (95% CI 0.891–0.969), vs. **0.593** for the keyword baseline, and its agreement with hand labels is kappa **0.93** (95% CI 0.89–0.96) vs. **0.45** for keywords. On a fresh 100-review holdout labeled by both authors, its precision is **0.975** (39 of 40 flags).
 - **Recall is bounded, not proven.** Too few unflagged reviews were hand-checked to rule out some missed complaints, so recall lies between about 0.61 and 0.99. The workflow therefore has a person check every AI flag, plus a random audit of unflagged reviews.
 - **Cost.** Labeling all **2,638 reviews** cost **$4.87** ($1.84 per 1,000). With the required human checks, the workflow costs about **$71 per 1,000**, 6x less than hand labeling.
-
-![Generative-AI complaints per 100 negative reviews, by game](figures/ai_complaints_by_game.png)
 
 ## Data
 
