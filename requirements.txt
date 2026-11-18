@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+openpyxl
+anthropic
+python-dotenv
+requests
+jupyter
