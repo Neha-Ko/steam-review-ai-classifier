@@ -8687,7 +8687,6 @@ max      1541.0
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Step 1 (replace games) - Starting rows: 6612
 Step 1 (replace games) - Ending rows: 6623 (dropped 89, added 100)
-Step 1 (replace games) - Ending rows: 6623 (dropped 89, added 100)
 </pre>
 </div>
 </div>
@@ -8954,52 +8953,6 @@ disclosed  DREADZONE                               2
 - ตอนแรกก็บัคเยอะอยู่แล้ว แทนที่อัพเดตใหม่จะดีขึ้น กากเหมือนเดิม ไม่เข้าใจ เกมก็เสียตังซื้อไม่ได้ได้ฟรี เวลาห่างจากอัพเดตแ
 - بتضل تعلق
 - I recommend playing this game, BUT NOT NOW, maybe in a year or two.  The game has a wonderful setting, interesting mecha
-
-group      name                               
-control    Aloft                                   1
-           Drug Dealer Simulator 2                10
-           FBC: Firebreak                          4
-           Farming Simulator 25                    3
-           Kebab Chefs! - Restaurant Simulator     2
-           Killing Floor 3                         5
-           Sengoku Dynasty                         4
-           Sniper Elite: Resistance                3
-           Tactical Breach Wizards                 2
-           Tavern Manager Simulator                2
-           Trash Goblin                            1
-           Ultimate Fishing Simulator 2            3
-disclosed  DREADZONE                               2
-           Esports Godfather                       2
-           FACEMINER                               1
-           Serum: Toxic Survival                   1
-           Shawarma Legend                         3
-           TRIBES 3: Rivals                        2
-
-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡟⠛⠛⠛⠛⢻⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⣤⣤⣤
-- .
-- .
-- ....
-- 💩
-- A$$
-- -1
-- у всего один эффект, не интересно, шедуле лучше
-- .
-- .
-- :(
- [*]физическая база сникамжи как в героических шутанах
-- English. Not many new features except added dodge. Many more flaws. Alpha version with grind. 11\25\2025. Ukrainian. Неб
-- ?????????????????????? what is the problem of this game
-- Мало контента и долгая прокачка.  Хочется пробовать новые скилы в прокачке, но к моменту их получения ты уже не захочешь
-- 40 gb of 💩
-- 병맛좀 곁들인 미완성적 b급 낚시게임
-- Fix your game.I can't cast my rods!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-- не работают сервера! возврат
-- Один вопрос: "Почему это существует, и кто вообще посчитал разумным пропустить эту идею дальше каракулей с салфетки гейм
-- Error 11008
-- damn you Sam lake               Ass
-- ตอนแรกก็บัคเยอะอยู่แล้ว แทนที่อัพเดตใหม่จะดีขึ้น กากเหมือนเดิม ไม่เข้าใจ เกมก็เสียตังซื้อไม่ได้ได้ฟรี เวลาห่างจากอัพเดตแ
-- بتضل تعلق
-- I recommend playing this game, BUT NOT NOW, maybe in a year or two.  The game has a wonderful setting, interesting mecha
 </pre>
 </div>
 </div>
@@ -9171,6 +9124,15 @@ Kept reviews with no letters (punctuation, emoji, ASCII art): 19
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Step 6 (computed columns) - Starting rows: 6404
 Step 6 (computed columns) - Ending rows: 6404
+       word_count  playtime_at_review_hrs
+count      6404.0                  6404.0
+mean        101.0                    29.1
+std         159.7                   122.3
+min           1.0                     0.1
+25%          18.0                     1.5
+50%          49.0                     5.3
+75%         117.0                    19.4
+max        1541.0                  4254.7
        word_count  playtime_at_review_hrs
 count      6404.0                  6404.0
 mean        101.0                    29.1
@@ -9552,9 +9514,6 @@ control         67     1441  0.046
 disclosed      169     1197  0.141
 
 Total flagged: 236 of 2638
-
-
-Total flagged: 236 of 2638
 </pre>
 </div>
 </div>
@@ -9793,8 +9752,6 @@ OTHER       12
 SKIP         1
 Review text matches the original sheet: 100.0%
 Saved data/labels/labels_round1_neha_combined.csv
-Review text matches the original sheet: 100.0%
-Saved data/labels/labels_round1_neha_combined.csv
 </pre>
 </div>
 </div>
@@ -10001,7 +9958,13 @@ Saved data/labels/labels_round1_final.csv
 <div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Load API key from the .env file (never committed)</span>
 <span class="n">load_dotenv</span><span class="p">()</span>
 <span class="n">api_key</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">getenv</span><span class="p">(</span><span class="s2">"ANTHROPIC_API_KEY"</span><span class="p">)</span>
-<span class="n">client</span> <span class="o">=</span> <span class="n">anthropic</span><span class="o">.</span><span class="n">Anthropic</span><span class="p">(</span><span class="n">api_key</span><span class="o">=</span><span class="n">api_key</span><span class="p">,</span> <span class="n">max_retries</span><span class="o">=</span><span class="mi">6</span><span class="p">)</span>
+
+<span class="c1"># Only connect to Claude if a key is set. Without a key, the notebook uses the saved labels in data/claude/</span>
+<span class="k">if</span> <span class="n">api_key</span><span class="p">:</span>
+    <span class="n">client</span> <span class="o">=</span> <span class="n">anthropic</span><span class="o">.</span><span class="n">Anthropic</span><span class="p">(</span><span class="n">api_key</span><span class="o">=</span><span class="n">api_key</span><span class="p">,</span> <span class="n">max_retries</span><span class="o">=</span><span class="mi">6</span><span class="p">)</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="n">client</span> <span class="o">=</span> <span class="kc">None</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s2">"No ANTHROPIC_API_KEY found: using saved Claude labels from data/claude/ (no API calls)"</span><span class="p">)</span>
 
 <span class="n">MODEL</span> <span class="o">=</span> <span class="s2">"claude-sonnet-4-6"</span>
 <span class="n">RUN_BY</span> <span class="o">=</span> <span class="s2">"Neha"</span>  <span class="c1"># Why: the Documentation rule logs who ran each call</span>
@@ -10296,6 +10259,12 @@ GENAI        65
 SKIP         15
 
 Not English according to Claude: 16
+reason     BOTH  GENAI  OTHER  QUALITY  SKIP
+group                                       
+control      10      8    163     1247    13
+disclosed    77     57     74      987     2
+
+Full run: $4.87 for 2638 reviews; mean 1.64s per review
 reason     BOTH  GENAI  OTHER  QUALITY  SKIP
 group                                       
 control      10      8    163     1247    13
